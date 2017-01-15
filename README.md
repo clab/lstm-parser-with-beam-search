@@ -3,6 +3,7 @@ An addition to [this dependency parser](https://github.com/clab/lstm-parser) whi
 
 If using this code, please cite the paper:
 
+```
 @InProceedings{buckman-ballesteros-dyer:2016:EMNLP2016,
   author    = {Buckman, Jacob  and  Ballesteros, Miguel  and  Dyer, Chris},
   title     = {Transition-Based Dependency Parsing with Heuristic Backtracking},
@@ -14,7 +15,7 @@ If using this code, please cite the paper:
   pages     = {2313--2318},
   url       = {https://aclweb.org/anthology/D16-1254}
 }
-
+```
 
 # Checking out the project for the first time
 
