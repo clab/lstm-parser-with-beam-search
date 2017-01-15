@@ -1,0 +1,3018 @@
+0  1  2  3  4  5  / 2  1  2  3  2  4  5  
+i have a throbbing pain . 
+ 一 跳 一 跳 的 痛 。
+0  1  2  3  4  / 0  1  2  3  4  
+it is august fifteenth . 
+ 是 八月 十五 号 。
+0  1  2  3  4  5  6  / 0  1  2  3  5  6  6  
+could you send this to japan ? 
+ 能 帮 我 寄到 日本 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 2  3  4  5  8  9  
+the rate is one hundred twenty dollars a night . 
+ unk 一 晚 一百二十 美元 。
+0  1  2  3  4  5  / 2  0  4  5  
+what newspapers do you have ? 
+ 有 什么 报纸 ?
+0  1  2  3  4  5  6  7  8  / 2  0  7  8  
+how do i use a safe deposit box ? 
+ 保险箱 怎么 用 ?
+0  1  2  3  4  5  / 3  2  4  5  
+where is the boarding gate ? 
+ 登机口 在 哪儿 ?
+0  1  2  3  4  5  6  / 1  2  2  5  5  6  
+are these all your personal effects ? 
+ 这些 都 是 日用品 吗 ?
+0  1  2  3  4  5  / 1  4  3  5  
+this is instant miso soup . 
+ 是 速食 unk 。
+0  1  2  3  4  5  6  / 4  5  3  5  6  
+we will land in three hours . 
+ 三 小时 后 到 。
+0  1  2  3  4  5  6  7  8  / 9  0  5  4  4  7  8  
+where is the bus stop for city hall ? 
+ 去 市政府 的 巴士站 在 哪儿 ?
+0  1  2  3  4  5  / 1  3  2  4  5  
+i feel much better now . 
+ 好象 好 多 了 。
+0  1  2  3  4  / 0  1  2  3  4  
+i hate green peppers . 
+ 我 很 讨厌 青椒 。
+0  1  2  3  4  5  / 1  0  8  2  2  3  4  5  5  
+can you recommend an instructor ? 
+ 能 给 我 介绍 一 名 教练 吗 ?
+0  1  2  3  4  5  6  7  / 8  9  2  4  5  6  7  
+how long does it take on foot ? 
+ 走路 去 要 多 长 时间 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 2  2  14  0  5  8  9  9  10  11  
+i 'm sorry , we have to turn down your offer . 
+ 很 抱歉 。 我 不得不 拒绝 您 的 要求 。
+0  1  2  3  4  5  6  / 5  5  3  3  3  4  6  
+when 's the check in time ? 
+ 几 点 开始 办理 登机 手续 ?
+0  1  2  3  / 1  2  2  3  
+i 'm sorry . 
+ 对 不 起 。
+0  1  2  3  4  5  6  7  / 0  2  2  3  12  5  6  7  
+can i open my unk box anytime ? 
+ 保险柜 任何 时候 都 可以 打开 吗 ?
+0  1  2  3  4  5  / 1  1  3  3  4  5  
+i have a terrible headache . 
+ 我 现在 头痛 的 厉害 。
+0  1  2  3  4  5  6  / 7  5  1  2  4  6  6  
+can i get there by bus ? 
+ 坐 巴士 可以 到 那里 吗 ?
+0  1  2  / 0  1  2  
+ten days . 
+ 十 天 。
+0  1  2  3  4  5  6  / 0  0  2  1  3  3  4  5  5  6  
+please recommend a good general practitioner . 
+ 请 给 我 介绍 评价 好 的 开业 医生 。
+0  1  2  3  4  5  6  / 0  2  0  4  4  5  5  6  
+i 'll have today 's special . 
+ 请 给 我 今天 的 推荐 套餐 。
+0  1  2  3  / 1  0  1  2  2  3  
+is this yours ? 
+ 这 是 您 的 吗 ?
+0  1  2  3  4  5  6  / 0  2  4  5  6  
+are there any messages for me ? 
+ 没有 什么 消息 吗 ?
+0  1  2  3  4  / 0  1  1  1  2  3  3  4  
+i recommend this wine . 
+ 我 向 您 推荐 这 种 葡萄酒 。
+0  1  2  3  4  5  6  7  / 1  3  2  4  4  5  6  6  7  
+may i try on this cotton sweater ? 
+ 可以 试穿 一下 这 件 棉 毛衣 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  / 0  3  4  4  23  8  7  26  14  9  17  30  11  13  13  18  18  
+i 'd like to get off at thirteenth street . would you tell me when we get there ? 
+ 我 想 在 十三 号 街 下车 , 到 了 那里 以后 能 告诉 我 吗 ?
+0  1  2  3  4  5  / 1  4  5  
+how much is the fare ? 
+ 多少 钱 ?
+0  1  2  3  4  / 0  3  7  
+oh , my unk . 
+ 怎么 办 ?
+0  1  2  3  4  5  / 0  1  1  3  2  3  12  4  5  
+i 'll take you there . 
+ 我 来 领 您 去 您 的 位子 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  7  5  6  9  10  
+i 'd like a twin room with a bath please . 
+ 我 要 带 浴缸 的 双人房 。
+0  1  2  3  4  5  6  / 0  2  3  2  4  5  6  
+can you change yen into dollars ? 
+ 请 把 日元 兑换 成 美元 。
+0  1  2  / 1  2  
+a robber . 
+ 小偷 。
+0  1  2  3  4  5  / 0  1  0  2  0  11  3  13  4  4  4  5  
+a mr. sato is calling . 
+ 有 位 叫 佐藤 的 先生 在 给 您 打 电话 。
+0  1  2  3  4  5  6  7  / 8  2  2  3  4  6  7  
+three glasses of melon juice , please . 
+ 请 给 我 三 份 甜瓜汁 。
+0  1  2  3  4  / 0  2  2  3  4  
+roast chicken , please . 
+ 请 给 我 烤鸡 。
+0  1  2  3  4  5  6  / 2  1  2  2  3  4  5  6  6  
+are there any unk flight attendants ? 
+ 有 会 说 日语 的 机组 乘务员 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  2  1  1  5  3  4  7  8  
+yes , sir . hold on , please . 
+ 好 的 , 知道 了 。 请 稍等 。
+0  1  2  3  4  5  6  7  / 8  3  3  2  5  6  6  6  7  
+can i park here for a while ? 
+ 车 在 这儿 停 一 段 时间 行吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  / 0  1  2  24  3  4  5  6  7  30  11  9  18  14  16  19  18  17  20  
+thanks for waiting . here 's your room key . you are on the third floor , room three fourteen . 
+ 让 您 久等 了 。 这 是 您 房间 的 钥匙 。 三 楼 的 三一四 号 房间 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 0  2  15  3  4  5  6  11  10  8  8  12  
+he bought some clothes and gave them to me as a present . 
+ 他 买 了 服装 , 并 作为 礼物 送给 了 我 。
+0  1  2  3  4  5  6  7  / 8  1  2  5  6  5  5  7  
+where is the most famous department store ? 
+ 最 有名 的 百货 商店 在 哪里 ?
+0  1  2  3  4  5  6  / 1  1  0  3  4  5  6  
+just an open pack of cigarettes . 
+ 只有 开 了 封 的 香烟 。
+0  1  2  3  4  5  6  7  / 2  1  2  3  4  13  6  7  
+what is that woman over there eating ? 
+ 那 位 女士 吃 的 是 什么 ?
+0  1  2  3  4  5  6  / 0  2  2  3  3  1  5  6  
+take two tablets after every meal . 
+ 请 每 次 饭后 吃 两 粒 。
+0  1  2  3  4  5  / 0  2  3  4  5  
+where 's the ticket office ? 
+ 售票处 在 哪里 啊 ?
+0  1  2  3  4  5  / 0  2  3  4  5  
+i 'm with my girlfriend . 
+ 和 女 朋友 一起 。
+0  1  2  3  4  5  6  7  / 0  1  2  1  5  6  7  
+how much do i take at once ? 
+ 一 次 服用 多少 好 呢 ?
+0  1  2  3  4  5  6  / 1  2  5  6  
+i will go and get it . 
+ 我 去 拿来 。
+0  1  2  3  4  5  6  7  8  / 7  1  2  3  4  3  6  5  8  
+your name and your room number , please . 
+ 请 告诉 我 您 的 姓名 和 房间号 。
+0  1  2  3  4  / 0  1  2  3  4  
+i have no time . 
+ 一点 时间 也 没有 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  / 0  1  5  5  12  13  15  25  10  8  16  17  
+i want to make a reservation on jal flight zero zero five to tokyo on the twelfth . 
+ 我 想 预订 十二日 去 东京 的 unk 零零五 次 航班 。
+0  1  2  3  4  5  6  / 2  4  3  3  5  6  6  
+do you have a japanese guidebook ? 
+ 有 日语 的 导游 手册 吗 ?
+0  1  2  3  4  5  6  / 0  1  2  3  5  6  6  
+could you send these to japan ? 
+ 能 帮 我 寄到 日本 吗 ?
+0  1  2  3  4  5  6  7  / 2  1  1  1  3  4  5  7  16  6  
+i said i don unk need it . 
+ 我 不 是 说 过 不 要 了 吗 ?
+0  1  2  3  4  / 0  2  2  2  3  4  
+by lt , please . 
+ 请 给 我 unk 电报 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  2  1  5  2  6  7  10  10  11  9  8  12  
+the bellboy will show you your room . where is your baggage ? 
+ 服务生 会 带 您 到 房间 。 您 的 行李 在 哪儿 ?
+0  1  2  3  4  5  6  / 0  1  0  2  3  3  5  3  6  
+our state has the lowest tax . 
+ 我们 州 的 税 是 最 低 的 。
+0  1  2  3  / 0  1  1  1  2  2  3  
+please join us . 
+ 请 您 也 一起 参加 吧 。
+0  1  2  3  / 0  1  2  3  
+check , please . 
+ 给 我 结帐 。
+0  1  2  3  4  5  6  7  8  / 0  1  3  4  5  14  15  6  17  6  7  7  8  
+yes , well , that 's our specialty . 
+ 对 呀 , 那 是 本 店 最 unk 的 菜 啊 。
+0  1  2  3  4  5  / 2  1  0  4  5  
+what 's this charge for ? 
+ 这 是 什么 费用 ?
+0  1  2  3  4  5  6  / 1  4  5  6  
+my air conditioner unk unk working . 
+ 空调 坏 了 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  4  4  5  6  3  8  9  
+i 'm on my way to chicago from minneapolis . 
+ 在 从 unk unk 去 芝加哥 的 途中 。
+0  1  2  3  4  5  / 1  0  1  3  2  3  4  5  14  
+will you unk me in ? 
+ 你 能 帮 我 打 一下 unk 吗 。
+0  1  2  3  4  / 0  1  2  3  4  
+which way is immigration ? 
+ unk unk 在 哪里 ?
+0  1  2  3  4  / 0  2  3  4  
+this is very beautiful . 
+ 真 漂亮 啊 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  / 2  3  3  20  4  7  8  7  9  14  10  9  12  15  5  16  
+it would be difficult to say , but probably rome . by all means , rome . 
+ 很 难 回答 是 哪里 , 大概 是 罗马 吧 。 当然 是 罗马 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  3  5  7  8  9  10  11  10  13  14  
+i 'd like to buy some unk items . please show me some watches . 
+ 我 想 买 免税品 。 请 给 我 看看 手表 。
+0  1  2  3  / 1  1  1  1  2  2  3  
+i 'm boring . 
+ 我 是 个 unk 的 人 。
+0  1  2  3  4  / 1  3  4  
+how much is it ? 
+ 多少 钱 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  / 0  1  2  8  9  5  5  7  26  27  10  10  10  31  11  14  13  14  16  17  
+no , we don unk carry much cash in this country . we use traveler 's checks . 
+ 不 , 我们 在 这个 国家 走动 时 , 很 少 随身 带 unk 。 一般 用 旅行 支票 。
+0  1  2  3  4  5  / 3  2  4  5  
+where is the police station ? 
+ 警察 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  / 0  3  2  2  5  6  7  6  4  26  27  28  11  10  15  13  14  14  15  16  
+one moment , please . yes , ms. unk , a single room for four nights . 
+ 请 稍等 , 您 是 南 小姐 吧 。 您 订 了 四 个 晚上 的 单人 间 吧 。
+0  1  2  3  4  5  6  7  / 0  2  4  4  6  7  
+well , it 's not so serious . 
+ 嗯 , 没什么 大 问题 。
+0  1  2  3  4  5  6  / 0  1  4  2  5  6  
+where is the ladies ' room ? 
+ 女 洗手 间 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  / 0  0  1  3  2  6  5  6  9  
+take this baggage to the bus terminal , please . 
+ 请 把 这 件 行李 搬到 巴士 车站 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 7  6  5  10  11  
+will i need to have unk shots to enter your country ? 
+ 入境 需要 unk 吗 ?
+0  1  2  3  / 4  2  1  2  3  
+the unk 's . 
+ 这里 是 unk 餐馆 。
+0  1  2  3  4  / 0  1  2  3  4  
+where is the atm ? 
+ 自动 取款机 在 哪儿 ?
+0  1  2  3  4  5  / 1  2  4  3  4  5  
+you should take a taxi . 
+ 还是 坐 出租车 好 吧 。
+0  1  2  3  4  5  6  7  8  9  10  / 4  3  1  6  6  9  7  8  10  10  
+is there someplace around here to buy something to drink ? 
+ 这 附近 有 能 买到 饮料 的 地方 吗 ?
+0  1  2  3  4  / 1  3  4  
+how much is it ? 
+ 多少 钱 ?
+0  1  2  3  4  5  6  7  8  / 0  2  3  4  5  7  6  8  
+would it be possible to check in earlier ? 
+ 能 不 能 早点 办理 入住 手续 ?
+0  1  2  3  4  5  6  7  / 0  1  2  3  6  5  4  7  
+a glass of white wine , please . 
+ 请 给 我 一 杯 白 葡萄酒 。
+0  1  2  3  4  / 2  3  4  
+it 's fifty cents . 
+ 五十 美分 。
+0  1  2  3  4  5  6  7  8  / 0  1  3  5  4  6  4  7  8  
+tell me how to use this , please . 
+ 请教 我 一下 这个 东西 的 使用 方法 。
+0  1  2  3  4  / 1  2  0  3  3  4  
+is this seat taken ? 
+ 这个 座位 有 人 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  2  6  7  8  
+i 'll bring it up now , madam . 
+ 马上 给 您 拿去 。
+0  1  2  3  4  5  / 1  2  0  4  5  
+i 'd like some coffee . 
+ 请 给 我 咖啡 。
+0  1  2  3  4  5  6  / 0  8  3  2  5  5  6  
+hello . is this miss ono ? 
+ 喂 , 是 unk 先生 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  0  11  3  2  5  6  7  7  8  
+work hard , and you will be promoted . 
+ 好好 工作 。 那样 的 话 会 升职 的 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  3  4  4  5  5  8  7  8  9  10  
+i 'd like to see that camera on the shelf . 
+ 我 想 看 一下 那 个 unk 上 的 照相机 。
+0  1  2  3  4  5  6  / 7  2  3  2  3  4  5  5  5  6  6  
+will you show me that watch ? 
+ 请 给 我 看 一下 那 块 表 好 吗 ?
+0  1  2  3  4  / 1  1  3  4  
+that 's so true . 
+ 就 是 那样 。
+0  1  2  3  4  5  6  7  8  9  10  / 9  6  5  5  7  7  10  
+i would like to exchange yen to dollars , please . 
+ 请 把 日元 兑换 成 美元 。
+0  1  2  3  4  5  / 4  0  2  3  3  5  
+please don unk unk this . 
+ 这个 请 不 要 unk 。
+0  1  2  3  4  / 1  2  3  4  
+the tire is flat . 
+ 轮 unk 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 7  6  3  10  4  11  5  21  12  13  
+do you have a store in japan where i can get this repaired ? 
+ 在 日本 有 能 修理 这个 的 unk 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  2  4  5  6  7  8  
+i 'd like to have these pictures enlarged . 
+ 我 想 把 这些 照片 放大 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 0  2  4  16  6  8  9  11  12  
+i would like to put my valuables in the safe deposit box . 
+ 我 想 把 unk 寄存 在 unk unk 。
+0  1  2  3  4  5  6  7  / 2  3  6  7  
+sorry , but we 're closed tomorrow . 
+ 明天 是 休息日 。
+0  1  2  3  4  / 0  0  2  3  3  4  
+my blood type is b. 
+ 我 的 血型 是 unk 。
+0  1  2  3  4  5  6  / 0  1  1  2  3  4  5  3  6  
+i want something with shorter sleeves . 
+ 我 想 要 袖子 再 短 些 的 。
+0  1  2  3  4  5  / 3  4  3  5  5  
+do you have any unk ? 
+ 有 unk 车 吗 ?
+0  1  2  3  4  / 1  1  2  3  4  
+a menu , please . 
+ 请 给 我 菜单 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  2  5  4  18  5  6  9  11  12  13  
+i 'd like to change my flight from july eighth to july ninth . 
+ 我 想 把 七月 八号 的 航班 改成 七月 九号 。
+0  1  2  3  4  5  6  7  8  9  / 0  2  1  3  3  6  5  5  7  19  8  9  
+we 'd like a table in a quiet corner . 
+ 请 给 我 一 个 靠 unk 的 安静 的 座位 。
+0  1  2  / 0  1  1  2  
+take care . 
+ 请 您 保重 。
+0  1  2  3  4  / 1  0  2  3  4  4  
+does he speak japanese ? 
+ 他 会 说 日语 吗 ?
+0  1  2  3  4  / 0  0  2  2  1  1  4  
+more bags , please . 
+ 请 再 给 我 一些 袋子 。
+0  1  2  3  4  5  6  / 0  1  4  3  2  5  13  5  6  
+where 's the united airlines counter ? 
+ 美国 联合 航空 公司 的 柜台 在 哪里 ?
+0  1  2  3  4  / 0  6  0  3  4  
+nice to meet you . 
+ 见到 您 很 高兴 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  2  3  4  5  6  7  8  9  
+i have two older sisters and one younger brother . 
+ 我 有 两 个 姐姐 和 一 个 弟弟 。
+0  1  2  3  / 1  0  1  2  2  3  
+unk , please . 
+ 我 想 要 禁烟 座位 。
+0  1  2  3  4  5  6  7  8  / 5  2  4  2  6  6  8  
+i can unk stand any more of this . 
+ 再 也 忍受 不 了 了 。
+0  1  2  3  4  5  6  / 1  0  0  2  3  3  5  4  5  6  
+it 's just around the corner . 
+ 在 那 个 拐角 一 转 过去 的 地方 。
+0  1  2  3  4  5  / 2  1  1  3  4  5  
+let me by , please . 
+ 请 让 我 过 一下 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  4  5  2  17  0  8  7  9  9  11  12  12  
+we 'll wait in the bar . will you call us please ? 
+ 我 在 酒吧 等 着 , 能 来 叫 我 一下 吗 ?
+0  1  2  3  4  / 1  3  4  
+but it 's dirty . 
+ 但是 脏了 。
+0  1  2  3  4  5  6  7  / 0  9  1  2  4  3  5  6  16  7  
+no , it 's made from bread . 
+ 不 是 , 那 是 用 unk 做 的 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  8  9  5  6  4  7  7  10  
+i think it 's too far to walk from here . 
+ 我 觉得 从 这儿 步行 去 太 远 了 。
+0  1  2  3  4  5  6  7  / 8  1  5  4  6  7  
+how many are there in your party ? 
+ 请 问 您 几 位 ?
+0  1  2  3  4  5  6  / 0  1  1  2  3  4  3  5  15  5  6  
+i want to reconfirm this ticket . 
+ 我 想 再 确认 一下 这 张 票 的 预订 。
+0  1  2  3  4  5  6  7  / 0  3  2  6  5  7  
+please wait here for a few minutes . 
+ 请 在 这里 等 我 。
+0  1  2  3  4  5  6  7  8  9  / 1  4  3  2  5  7  7  
+i wonder why cds are so much cheaper there . 
+ 那里 的 cd 为什么 那么 便宜 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  3  4  6  8  7  7  10  
+i would like the most popular vietnamese dish , please . 
+ 我 要 最 受 欢迎 的 越南 菜 。
+0  1  2  3  4  / 0  0  1  2  9  3  1  4  
+more coffee , please . 
+ 请 再 给 我 一 杯 咖啡 。
+0  1  2  3  4  / 1  3  4  
+my eyes are bloodshot . 
+ 眼睛 充血 。
+0  1  2  3  4  5  6  / 0  1  3  5  5  6  
+my friend had a traffic accident . 
+ 朋友 遇到 交通 事故 了 。
+0  1  2  3  4  5  6  / 1  2  2  10  4  3  4  5  6  6  
+may i put my seat back ? 
+ 我 把 座椅 unk 放 下去 没 关系 吗 ?
+0  1  / 0  1  
+thanks . 
+ 谢谢 。
+0  1  2  3  4  5  6  7  / 8  9  2  3  4  5  6  7  
+two hot dogs to go , please . 
+ 给 我 两 个 热狗 , 带走 。
+0  1  2  3  4  5  6  7  / 6  9  10  0  2  3  4  5  6  6  7  
+one unk ticket to unk , please . 
+ 请 给 我 一 张 去 unk 的 往返 车票 。
+0  1  2  3  4  / 2  3  4  
+get help , quick . 
+ unk 来 。
+0  1  2  3  4  / 2  3  4  
+i have no appetite . 
+ 没有 食欲 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 1  4  5  7  8  20  21  11  13  14  
+just as at the vernal equinox , we hold a mass for our ancestors . 
+ 和 春分 一样 , 都 是 unk 的 日子 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 3  5  6  15  7  8  9  10  11  
+do you have any flights to tokyo in the early morning ? 
+ 有 飞往 东京 的 unk 的 航班 吗 ?
+0  1  2  3  4  5  6  / 0  1  5  3  6  
+thank you for calling , sir . 
+ 谢谢 您 的 电话 。
+0  1  2  3  4  5  / 0  2  1  3  3  4  5  
+this is not my coat . 
+ 这 不 是 我 的 大衣 。
+0  1  2  3  4  5  6  / 1  5  4  5  6  
+can you give me a discount ? 
+ 能 便宜 点儿 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  / 0  1  2  5  7  9  9  11  13  8  8  15  10  16  14  15  40  18  20  21  23  
+no , i 'd also like to get a dress cleaned . and i want to get a stain out of another dress . 
+ 不 , 还 要 洗 连 衣裙 。 还 有 一 件 连 衣裙 想 要 unk 上面 的 unk 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 2  10  6  1  5  5  5  4  20  11  
+i 'll get a new one when i return to japan . 
+ 回到 日本 后 再 买 一 个 新 的 。
+0  1  2  3  4  / 1  0  1  2  2  3  4  4  
+are japanese dogs big ? 
+ 日本 的 狗 个 头 大 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  4  4  8  7  8  9  
+i 'd like to sit next to my friend . 
+ 我 想 坐 在 朋友 的 旁边 。
+0  1  2  3  4  5  6  / 1  2  5  5  6  
+to go to an opera festival . 
+ 为了 去 参加 unk 。
+0  1  2  3  4  / 0  3  2  4  
+is there a mirror ? 
+ 有 镜子 吗 ?
+0  1  2  3  4  5  / 0  3  3  5  4  
+what 's the phone number ? 
+ 请 讲 电话 号码 。
+0  1  2  3  4  5  6  / 0  1  1  0  4  2  5  3  6  
+they are all well , thanks . 
+ unk 您 的 unk , 都 挺 好 。
+0  1  2  / 0  1  2  
+no way . 
+ 不 行 。
+0  1  / 0  0  1  
+great . 
+ 真 好 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  / 0  2  3  25  26  27  8  7  5  18  20  12  34  14  15  16  17  39  21  21  
+i want to get off at the unk fifth avenue bus stop . would you tell me when we get there ? 
+ 我 想 在 unk 第五 大 街 unk 下车 , 到 了 那儿 能 叫 我 一 声 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  2  4  6  5  7  8  
+i want to cash a traveler 's check . 
+ 请 把 旅行 支票 换成 现金 。
+0  1  2  3  4  5  / 1  2  4  5  
+what day is it today ? 
+ 今天 是 星期几 ?
+0  1  2  3  / 0  1  1  2  3  
+half , please . 
+ 请 给 我 一半 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  1  2  2  4  5  5  4  3  6  8  9  
+okay , but what 's " unk home " ? 
+ 可以 呀 , " 静静 的 家 " 是 什么样 的 电影 ?
+0  1  2  / 0  1  1  1  2  
+unk dressing . 
+ 要 俄罗斯 unk unk 。
+0  1  2  3  4  5  6  7  / 8  5  6  7  
+you should transfer to the chuo line . 
+ 请 转乘 unk 。
+0  1  2  3  4  5  6  / 3  5  2  10  6  
+i lost my traveler 's checks . 
+ 旅行 支票 丢 了 。
+0  1  2  3  4  5  / 3  0  8  2  2  3  1  4  4  5  
+when is the next delivery ? 
+ 下 一 次 的 unk 时间 是 几 点 ?
+0  1  2  3  / 0  1  2  3  
+here you are . 
+ 可以 , 请便 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  / 0  2  4  4  3  7  23  5  6  26  14  15  12  10  10  16  
+i 'd like to call tokyo , japan . what time is it now in tokyo ? 
+ 我 想 打 电话 到 日本 的 东京 , 现 在 东京 是 几 点 ?
+0  1  2  3  4  / 1  3  3  4  
+you listen to me . 
+ 听 我 说 !
+0  1  2  3  4  5  / 0  1  0  3  4  4  4  5  
+where 's the unk department ? 
+ 卖 洗脸 用品 的 柜台 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  0  1  2  3  6  6  10  12  13  7  26  14  
+excuse me . could you tell me how to get to the unk museum ? 
+ 对 不 起 。 请 告诉 我 到 unk 美术馆 怎么 走 。
+0  1  2  3  4  5  6  7  8  9  / 0  3  2  3  5  7  8  8  9  
+i work in the marketing department at wow chemicals . 
+ 我 在 unk unk 化学 公司 市场部 工作 。
+0  1  / 0  0  1  
+yes . 
+ 好 的 。
+0  1  2  3  4  5  / 0  1  4  5  
+i 'll try some pie . 
+ 我 要 馅饼 。
+0  1  2  3  4  5  6  7  / 3  9  2  1  4  6  7  7  
+can i use this cart for free ? 
+ 这个 行李 推车 可以 免费 使用 吗 ?
+0  1  2  3  4  5  6  7  / 1  1  10  3  4  6  7  7  
+could you look for it , please ? 
+ 可以 帮 我 找 一 下 吗 ?
+0  1  2  3  4  / 0  1  2  1  3  4  
+that man is unk . 
+ 那 个 男人 很 unk 。
+0  1  2  3  4  5  / 0  1  2  3  4  5  
+where ? where are you ? 
+ 哪儿 ? 在 哪儿 呢 ?
+0  1  2  3  4  5  6  / 2  5  3  6  
+do you have a fax machine ? 
+ 有 传真机 吗 ?
+0  1  2  3  4  / 0  2  3  4  
+congratulations on your promotion . 
+ unk 您 unk !
+0  1  2  3  4  5  / 6  7  1  4  3  5  
+no . i am not . 
+ 是 的 。 不 打 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  3  4  6  4  7  9  10  
+i 'd like to look around first . thank you . 
+ 我 想 先 转转 看 。 谢谢 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  1  6  3  8  9  
+tell me where the closest station is , please . 
+ 请 告诉 我 最近 的 火车站 。
+0  1  2  3  4  5  / 1  2  1  4  5  
+like what , for example ? 
+ 比如说 , 什么 事 ?
+0  1  2  3  4  5  6  / 2  8  4  5  6  
+did you see who did it ? 
+ 看见 unk 了 吗 ?
+0  1  2  3  4  / 3  3  1  1  2  2  4  
+the same for me . 
+ 给 我 也 来 一样 的 。
+0  1  2  3  4  5  / 0  1  0  2  3  4  4  5  
+unk dollars in unk bills . 
+ 一 美元 的 纸币 , 九十九 美元 。
+0  1  2  3  4  5  6  / 1  2  4  3  5  6  
+where is the nearest subway station ? 
+ 最近 的 地铁站 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 1  3  4  5  9  19  20  12  13  
+how many stops are there between here and the museum of modern art ? 
+ 从 这里 到 现代 美术馆 有 几 站 ?
+0  1  2  3  4  5  6  7  / 1  5  6  7  
+please take me to the vacation hotel . 
+ 请到 假日 酒店 。
+0  1  2  3  4  5  / 3  4  2  4  5  
+where is the japanese embassy ? 
+ 日本 大使馆 在 哪儿 ?
+0  1  2  3  4  5  6  7  / 0  1  2  3  3  3  4  15  6  6  7  
+when 's the next bus to baltimore ? 
+ 到 巴尔的摩 的 下 一 班 巴士 什么 时候 开 ?
+0  1  2  3  4  5  6  7  / 0  1  2  3  6  7  7  
+do you have a magazine or something ? 
+ 有 杂志 之类 的 读物 吗 ?
+0  1  2  3  / 0  0  1  2  2  3  
+menu , please . 
+ 请 给 我 看看 菜单 。
+0  1  2  3  4  5  / 0  2  3  4  2  4  5  
+where 's the nearest dentist ? 
+ 最近 的 牙科 诊所 在 哪里 ?
+0  1  / 0  1  
+unk . 
+ 再见 。
+0  1  2  3  4  5  6  7  / 0  2  3  1  3  4  5  6  7  
+do you have anything that 's quick ? 
+ 有 没 有 能 马上 做好 的 菜 ?
+0  1  2  3  4  5  6  / 3  2  3  4  5  6  
+do you have this in black ? 
+ 这个 有 黑色 的 吗 ?
+0  1  2  3  4  5  6  / 0  0  1  2  4  5  5  6  6  
+i left something in the room . 
+ 我 有 东西 忘记 在 房间 里 了 。
+0  1  2  3  4  5  6  7  / 1  2  3  4  6  7  7  
+have you ever seen a japanese movie ? 
+ 看 过 日本 的 电影 吗 ?
+0  1  2  3  4  5  6  7  8  / 7  4  11  4  2  3  6  7  8  
+which would you like , coffee or tea ? 
+ 咖啡 和 unk , 您 要 哪 个 ?
+0  1  2  3  4  5  / 0  0  2  3  4  5  
+where can i buy accessories ? 
+ 在 哪里 能 买到 首饰 ?
+0  1  2  3  4  5  / 1  2  4  5  
+where is the ticket office ? 
+ 售票处 在 哪里 ?
+0  1  2  3  4  5  6  7  / 0  1  3  4  6  7  
+so , where is the dining room ? 
+ 那么 , 餐厅 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  / 1  3  1  2  2  7  8  9  11  27  28  14  16  31  17  
+oh , the rates range from about ninety dollars to a hundred and fifty , plus tax . 
+ 我 看看 , unk 是 九十 美元 到 一百五十 美元 左右 , 税款 unk 。
+0  1  2  3  4  / 0  1  3  3  4  
+please call the police . 
+ 请 跟 警察 联系 。
+0  1  2  3  4  5  / 1  2  4  5  5  
+can i continue my trip ? 
+ 可以 继续 旅行 吗 ?
+0  1  2  3  4  5  / 0  1  3  4  5  
+my name is taro yamada . 
+ 我 叫 unk unk 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  0  2  3  1  4  5  22  7  7  8  9  10  12  12  13  13  14  
+then i 'd like ten ninety cent stamps and two ninety five cent stamps . 
+ 那么 , 请 给 我 十 张 unk 的 邮票 和 两 张 九十五 分 的 邮票 。
+0  1  2  3  4  5  / 0  1  3  3  4  5  
+where is the stationery section ? 
+ 文化 用品 柜台 在 哪儿 ?
+0  1  2  3  4  5  6  / 0  1  2  3  4  5  6  
+kids are walking around in costumes . 
+ unk 了 假面 正在 走 呢 。
+0  1  2  3  4  5  6  7  / 0  1  3  5  6  7  
+when should i bring it , sir ? 
+ 什么 时候 给 您 送去 ?
+0  1  2  3  4  5  / 0  1  2  9  3  4  5  
+please convert dollars into pounds . 
+ 请 把 美元 unk 成 英镑 。
+0  1  2  3  4  5  6  / 0  1  1  0  2  3  4  5  6  
+let me check your vaccination certificate . 
+ 请 让 我 看 一下 预防 接种 证明 。
+0  1  2  3  4  / 3  4  
+thank you very much . 
+ 谢谢 。
+0  1  2  3  4  5  / 0  0  2  2  3  5  4  
+you get it , right ? 
+ 这 你 是 知道 的 吧 。
+0  1  2  3  4  5  6  / 1  2  1  4  4  4  5  6  
+please show me a lighter one . 
+ 给 我 看看 更 轻 一些 的 。
+0  1  2  3  4  / 0  1  2  2  3  4  
+shall we order it ? 
+ 需要 为 您 订货 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 1  2  4  6  5  8  9  9  
+are you sure the flight time is twelve hours ? 
+ 飞行 时间 确实 是 十二 小时 吗 ?
+0  1  2  3  4  5  6  / 1  2  3  5  6  
+i 'd like my hair dyed . 
+ 请 给 我 染发 。
+0  1  2  3  4  5  / 0  3  2  4  3  5  
+could i see mr. unk ? 
+ 请 叫 一下 unk 先生 。
+0  1  2  3  4  5  6  7  8  / 0  2  6  5  5  14  
+she 's not a diplomat , is she ? 
+ 她 不 是 unk 吧 。
+0  1  2  3  4  5  6  / 0  0  1  4  3  3  4  3  5  6  
+point me to a good unk . 
+ 请 给 我 介绍 一 家 好 的 咖啡店 。
+0  1  2  3  4  5  / 2  4  5  5  
+do you sell unk items ? 
+ 卖 免税品 吗 ?
+0  1  2  3  / 0  1  1  2  2  3  
+i have heartburn . 
+ 胃 里 烧 得 难受 。
+0  1  2  3  4  5  6  / 0  1  4  5  6  
+this is all my personal luggage . 
+ 全 是 个人 物品 。
+0  1  / 0  0  1  
+yes . 
+ 是 的 。
+0  1  2  3  4  5  6  / 2  1  4  5  6  
+our last order is at ten . 
+ 点菜 最 晚到 十点钟 。
+0  1  2  3  4  5  / 1  1  3  4  5  
+i 'll put you through . 
+ 就 给 您 接通 。
+0  1  2  3  4  5  6  / 0  1  1  1  2  3  4  4  5  5  6  
+please fix it or exchange it . 
+ 请 给 我 修理 一下 或 给 我 换 一下 。
+0  1  2  3  4  5  6  / 1  2  1  4  3  5  6  
+today 's program is folk unk . 
+ 今天 晚上 的 演出 是 unk 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  3  4  5  9  8  9  10  
+i 'd like to reserve a seat by the window . 
+ 我 想 预订 靠 窗 的 座位 。
+0  1  2  3  4  5  / 0  1  2  1  3  4  5  
+please change this into dollars . 
+ 请 把 这个 兑换 成 美元 。
+0  1  2  3  4  / 0  3  3  4  4  
+would you like insurance ? 
+ 上 保险 了 吗 ?
+0  1  2  3  4  5  6  / 0  5  4  4  6  
+he 's not in right now . 
+ 他 现在 出去 了 。
+0  1  2  3  4  5  6  7  8  / 2  5  7  8  
+there 's a problem with my right eye . 
+ 右眼 有点 unk 。
+0  1  2  3  4  5  6  / 0  2  1  3  5  6  
+is there a hotel around here ? 
+ 这 附近 有 unk 吗 ?
+0  1  2  3  4  5  / 0  7  8  4  1  2  4  5  
+what number are you calling ? 
+ 您 拨 的 电话 号码 是 多少 ?
+0  1  2  3  4  / 1  2  3  4  
+what time is unk ? 
+ 几 点 退房 ?
+0  1  2  3  4  / 0  1  2  3  4  
+sign here , please . 
+ 请 在 这里 签名 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  3  9  5  8  7  10  11  
+i would like a seat next to my daughter , please . 
+ 我 要 和 女儿 在一起 的 座位 。
+0  1  2  3  4  5  / 2  2  3  4  5  
+it was fantastic . thanks . 
+ 太棒 了 。 谢谢 。
+0  1  2  3  4  / 0  1  1  2  3  4  
+stop here , please . 
+ 请 在 这里 停 下来 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  / 0  3  4  5  7  14  6  6  24  8  26  9  13  12  15  
+i 'm going home on the seventeenth . please send it to japan after that . 
+ 我 十七 号 unk 。 那 以后 的话 , 请 给 我 寄到 日本 。
+0  1  2  3  4  5  6  / 0  1  2  2  4  5  6  
+what time does that ferry leave ? 
+ 这 艘 unk 几 点钟 出发 ?
+0  1  2  3  4  5  / 0  1  3  4  5  
+i want to play golf . 
+ 我 想 打 高尔夫球 。
+0  1  2  3  4  5  6  7  8  / 1  7  6  4  13  
+that movie was interesting , unk unk it ? 
+ 电影 很 有趣 吧 。
+0  1  2  3  4  5  6  7  8  / 0  3  6  5  7  6  8  
+i don unk think this restaurant is expensive . 
+ 我 觉得 这 家 餐馆 unk 。
+0  1  2  3  / 0  1  2  3  
+here it is . 
+ 这 就 是 。
+0  1  2  3  4  5  6  / 0  2  1  3  3  4  5  6  
+i don unk remember what happened . 
+ 我 unk 当时 发生 了 什么 事情 。
+0  1  2  3  4  5  6  7  / 0  3  5  7  
+no , nothing that i know of . 
+ 不 , 没有 。
+0  1  2  3  4  5  / 2  0  1  1  3  4  5  
+how long is the tour ? 
+ 是 多 长 时间 的 游览 ?
+0  1  2  3  4  5  / 0  1  2  4  4  5  5  
+may i see the menu ? 
+ 让 我 看看 菜单 好 吗 ?
+0  1  2  3  4  5  6  7  / 5  3  3  1  0  2  3  4  6  6  7  
+please . show me shoes , please . 
+ 对 不 起 。 请 给 我 看 一下 鞋子 。
+0  1  2  3  4  5  6  7  / 0  1  1  3  4  3  5  6  6  7  
+here 's a plate . help yourself . 
+ 请 用 这个 盘子 。 请 您 随便 拿 。
+0  1  2  3  4  5  6  7  / 6  5  7  
+may i have the check , please . 
+ 请 结帐 。
+0  1  2  3  4  5  / 1  3  4  4  5  
+the sleeves are too narrow . 
+ 袖子 太 窄 了 。
+0  1  2  3  4  5  / 0  1  2  3  4  5  
+where is the crafts shop ? 
+ 哪里 有 手 工艺品 商店 ?
+0  1  2  3  4  5  / 1  3  4  5  
+the night is still young . 
+ 天才 刚刚 黑 。
+0  1  2  3  4  / 0  2  3  4  
+to the department store . 
+ 去 百货 商店 。
+0  1  2  3  4  / 0  1  2  3  3  4  
+hello . reception desk ? 
+ 喂 。 是 问讯处 吗 ?
+0  1  2  3  4  5  / 3  3  2  1  4  5  
+what time does it begin ? 
+ 那 个 几 点 开始 ?
+0  1  2  3  4  5  6  / 0  2  2  4  3  5  6  
+i want to call my home . 
+ 我 想 给 家里 打 电话 。
+0  1  2  3  4  5  6  / 0  1  4  3  5  6  
+uhh . give me a tab . 
+ 啊 。 给 我 帐单 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  12  4  8  7  9  10  
+where can i get a map of the subway lines ? 
+ 地铁 的 线路 图 在 哪里 ?
+0  1  2  3  4  5  6  7  8  / 5  4  1  7  8  
+how do i fill in this declaration form ? 
+ 这个 申报单 怎么 填写 ?
+0  1  2  3  4  5  6  / 0  2  1  2  5  3  6  
+can i have a medical certificate ? 
+ 能 给 我 开 诊断书 吗 ?
+0  1  2  3  4  5  6  7  / 0  4  3  2  5  6  14  7  
+please bring my breakfast to my room . 
+ 请 把 早餐 送到 我 房间 来 。
+0  1  2  3  4  5  / 1  3  4  4  5  
+are you ready to order ? 
+ 您 要 点 什么 ?
+0  1  2  3  / 2  1  1  0  3  
+beer , please . 
+ 请 给 我 啤酒 。
+0  1  2  3  4  5  6  7  8  9  / 2  2  3  4  5  7  6  8  9  
+just a moment . i 'll put you through . 
+ 请 稍候 。 我 给 您 转 过去 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  10  9  3  2  11  
+how many days will it take before it gets to japan ? 
+ 寄到 日本 要 几 天 ?
+0  1  2  3  4  5  6  7  8  / 2  0  11  12  3  7  5  6  7  8  
+here you are . how was everything today ? 
+ 您 这 边 请 。 今天 的 菜 怎么样 ?
+0  1  2  3  4  5  / 2  1  4  4  5  
+would you like french fries ? 
+ 要 炸 薯条 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 4  2  3  16  17  6  5  8  8  10  11  12  
+i don unk feel anything . are you sure it 's on ? 
+ 什么 也 感觉 不 到 呀 。 真的 带上 了 吗 ?
+0  1  2  3  4  5  / 3  1  4  9  5  5  
+do you have anything cheaper ? 
+ 有 更 便宜 的 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  3  4  8  9  12  
+i 'd like to make a reservation for a hotel , please . 
+ 请 给 我 预订 饭店 。
+0  1  2  3  4  5  6  7  8  / 0  2  3  5  5  7  8  
+four thirty . please don unk be late . 
+ unk 。 请 不 要 迟到 。
+0  1  2  3  4  / 0  0  1  2  3  4  
+they pinch my toes . 
+ 鞋 unk 好像 有点 紧 。
+0  1  2  3  4  5  / 0  2  3  4  5  
+i 'd like a comb . 
+ 我 想 要 梳子 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  2  3  3  4  3  5  7  7  8  9  
+yes . let me see that blouse over there . 
+ 嗯 。 请 给 我 看 一下 那 边 的 衬衫 。
+0  1  2  3  4  / 0  1  1  3  2  4  
+i asked for five . 
+ 我 订 了 五 个 。
+0  1  2  3  4  5  6  / 0  1  2  5  4  6  6  
+do i pay on the bus ? 
+ 车票 在 车 上 买 吗 ?
+0  1  2  3  4  / 1  0  2  2  2  3  4  4  
+is it machine washable ? 
+ 用 洗衣机 洗 也 没 关系 吗 ?
+0  1  2  3  4  5  6  7  / 2  2  4  3  5  4  6  7  
+i 'm worried about my unk unk . 
+ 眼 角 的 unk 让 我 烦恼 。
+0  1  2  3  4  / 0  1  3  4  
+yes , of course . 
+ 可以 , 请便 。
+0  1  2  3  4  / 1  2  2  3  4  4  
+may i sit there ? 
+ 可以 坐 在 那里 吗 ?
+0  1  2  3  / 1  2  2  3  
+that 's all . 
+ 就 要 这些 。
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i usually get up at seven . 
+ 我 一般 早上 七点 起床 。
+0  1  2  3  4  5  6  7  8  9  / 1  2  0  5  3  7  8  9  
+do you know of a good restaurant near here ? 
+ 这 附近 有 好 的 餐馆 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  2  5  6  8  9  10  
+i prefer to sit in the back of the plane . 
+ 我 想 要 飞机 unk 的 座位 。
+0  1  2  3  4  5  6  7  / 0  3  4  6  7  
+i 'd like to return a car . 
+ 我 想 还 车 。
+0  1  2  3  4  5  / 2  3  0  4  5  
+here is my claim tag . 
+ 行李 票 在 这儿 。
+0  1  2  3  4  5  / 0  0  0  2  3  11  4  5  
+when are there seats available ? 
+ 能 订 到 什么 时候 的 票 ?
+0  1  2  3  4  5  / 2  4  5  5  
+do i need a reservation ? 
+ 需要 预订 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 4  3  5  5  6  16  17  9  8  10  
+i can unk do that . it 's already discounted . 
+ 那 不 行 。 已经 打 过 折 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  / 2  5  4  8  36  7  38  13  40  10  21  28  22  15  18  16  19  49  23  25  24  53  27  26  26  31  
+it 's very kind of you to invite me , but i 'm very sorry i have a previous engagement on that evening . please ask me again some other time . 
+ 谢谢 您 的 邀请 。 但 真的 很 遗憾 , 那 个 晚上 我 已 有 约 了 。 请 下 次 再 邀请 我 。
+0  1  2  3  4  5  6  7  8  / 0  1  2  3  4  6  5  7  8  
+i 'd like a present for my mother . 
+ 我 想 要 一 份 礼物 给 妈妈 。
+0  1  2  3  4  5  6  / 1  3  2  2  5  5  6  
+how would you like the money ? 
+ 您 要 换成 哪 种 货币 ?
+0  1  2  3  4  5  6  7  / 0  0  1  11  3  6  4  7  7  
+would you take a picture of me ? 
+ 您 能 帮 我 照 张 相 吗 ?
+0  1  2  3  / 2  1  2  3  
+what is that ? 
+ 那 是 什么 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  6  13  9  
+i think there is a mistake in the bill . 
+ 我 觉得 算错 了 。
+0  1  2  3  4  5  6  7  8  / 2  1  5  6  4  7  8  
+do you have anything a little bit smaller ? 
+ 有 再 小 一点 的 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  2  1  4  5  3  7  8  
+can i have a fifty franc telephone card ? 
+ 请 给 我 五十 法郎 的 电话卡 。
+0  1  2  3  4  5  6  / 2  1  3  4  5  6  
+do you have a morning tour ? 
+ 有 上午 的 旅游 吗 ?
+0  1  2  3  / 0  1  2  3  
+the center hotel . 
+ 是 中央 酒店 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  3  5  4  10  8  9  11  
+i 'd like to return the car at san francisco airport . 
+ 我 想 在 旧金山 机场 还 车 。
+0  1  2  3  4  5  6  / 2  1  3  5  4  6  
+where can i buy the ticket ? 
+ 在 哪儿 买 车票 呢 ?
+0  1  2  3  4  5  6  7  8  / 0  0  1  5  7  4  5  16  6  8  
+excuse me . a napkin , quickly please . 
+ 对 不 起 , 请 马上 给 我 餐巾 。
+0  1  2  3  4  5  / 1  2  4  5  
+can i buy it unk ? 
+ 能 免税 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  4  3  5  5  7  8  
+how do i turn the top light on ? 
+ 上面 的 阅读 灯 怎么 打开 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 2  3  3  4  6  18  19  8  11  10  12  
+i unk make a collect call to unk unk from jack unk . 
+ 要 一 个 unk 给 unk 的 对方 付费 电话 。
+0  1  2  3  4  5  / 0  3  3  5  4  
+what 's the phone number ? 
+ 请 讲 电话 号码 。
+0  1  2  3  / 0  1  2  3  
+anything is fine . 
+ 什么 都 行 。
+0  1  2  3  4  5  6  7  8  9  / 0  1  3  3  6  15  5  8  6  9  
+you 've really got to do something about it . 
+ 不 想想 办法 的 话 我 会 unk 的 。
+0  1  2  3  4  5  6  / 2  2  3  2  5  5  6  
+do you accept this credit card ? 
+ 可以 用 这 张 信用卡 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+this chicken is undercooked . 
+ 这个 鸡肉 没 烤熟 。
+0  1  2  3  4  5  6  7  8  9  / 0  3  4  5  1  4  9  
+how much is the fare to the savoy hotel ? 
+ 到 unk 饭店 要 多少 钱 ?
+0  1  2  3  4  5  6  7  8  / 0  1  3  1  5  7  7  8  
+is there a lounge car on that train ? 
+ 这 趟 火车 有 特别 车厢 吗 ?
+0  1  2  3  4  5  / 1  2  4  5  
+what time do you close ? 
+ 几 点 关门 ?
+0  1  2  3  4  5  / 1  2  3  2  4  5  5  
+let me take you there . 
+ 我 带 您 去 那里 吧 。
+0  1  2  3  4  / 3  1  2  4  4  
+are you off tomorrow ? 
+ 明天 你 休息 吗 ?
+0  1  2  3  4  5  / 0  0  2  3  4  5  
+where can i buy postcards ? 
+ 在 哪儿 能 买到 明信片 ?
+0  1  2  3  4  5  / 0  1  3  3  4  5  
+i 'll take that room . 
+ 我 要 那 个 房间 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  1  14  2  4  4  5  6  8  7  9  9  10  
+simply speaking , it 's a sirloin steak with sauce . 
+ 简单 地 说 来 , 就 是 unk 调味汁 的 牛 腰 unk 。
+0  1  2  3  4  5  6  7  / 0  9  2  5  3  1  6  7  
+what is the reason for the return ? 
+ 您 要 unk 的 理由 是 什么 ?
+0  1  2  3  4  5  6  7  / 1  0  4  5  6  7  
+the officer over there can help you . 
+ 那里 的 官员 是 负责人 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  0  1  2  3  3  2  7  6  20  21  4  9  10  
+no , not unless you have an account with us . 
+ 不 行 , 在 本 银行 没有 帐户 的话 , 不 能 兑换 。
+0  1  2  3  4  5  / 3  1  2  4  5  
+where 's the bus stop ? 
+ 巴士 车站 在 哪里 ?
+0  1  2  3  4  5  6  / 1  2  3  5  5  6  
+where can i get some stamps ? 
+ 哪里 有 卖 邮票 的 ?
+0  1  2  / 0  4  0  1  2  2  
+excuse me ? 
+ 哎 ? 您 说 什么 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  4  4  5  6  10  8  10  11  
+how much is the difference between first class and second class ? 
+ 一 等 跟 二 等 价钱 unk 多少 ?
+0  1  2  3  4  5  6  7  8  / 0  1  4  4  7  7  8  
+are there any other persons who will drive ? 
+ 还 有 其他 人 开车 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 3  5  1  2  0  4  4  7  6  8  6  7  9  
+is the fare to the airport fixed or unk ? 
+ 到 机场 的 费用 是 unk 的 还是 打 unk 定 的 ?
+0  1  2  3  4  5  / 3  2  1  4  5  
+how much for one night ? 
+ 一 晚 多少 钱 。
+0  1  2  3  4  5  / 1  4  5  
+i 've got a stomachache . 
+ 我 胃疼 。
+0  1  2  3  4  5  6  7  8  / 0  2  3  4  5  7  8  8  
+is there a beauty salon in that hotel ? 
+ 那 个 unk 里面 有 美容院 吗 ?
+0  1  2  3  4  5  6  / 0  3  5  6  
+wow . he 's very unk . 
+ unk 的 小伙子 。
+0  1  2  3  4  5  6  7  / 0  1  3  3  4  6  7  
+thanks for inviting me to the party . 
+ 谢谢 您 邀请 我 参加 聚会 。
+0  1  2  3  4  5  / 0  1  3  4  5  
+it 's all personal goods . 
+ 全部 是 私人 用品 。
+0  1  2  3  4  5  / 1  2  4  5  
+how long will it take ? 
+ 要 几 分钟 ?
+0  1  2  3  4  5  / 1  2  3  4  5  
+fill it up , please . 
+ 请 把 油箱 加满 。
+0  1  2  3  4  5  6  7  / 5  1  3  4  3  6  7  
+what kind of business are you in ? 
+ 您 是 做 什么 工作 的 ?
+0  1  2  3  4  / 1  3  4  
+may i help you ? 
+ 欢迎 光临 。
+0  1  2  3  4  / 0  0  1  3  4  
+yes , there is . 
+ 是 的 , 有 。
+0  1  2  3  / 0  1  1  2  3  
+i feel sick . 
+ 我 身体 不 舒服 。
+0  1  2  3  4  5  6  7  8  / 0  1  3  5  13  6  7  8  
+is there a snack bar on the train ? 
+ 那 列 火车 上 有 酒吧 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  1  2  3  2  5  6  6  8  5  10  7  11  
+we 'll arrive at the honolulu international airport in thirty minutes . 
+ 飞机 再 过 半 小时 将 会 降落 在 夏威夷 国际 机场 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  3  4  6  7  10  11  
+i 'll be checking out , so please prepare my bill . 
+ 我 要 退房 , 请 结帐 。
+0  1  2  3  4  5  6  / 0  2  2  5  6  
+i 'd like a travel guide . 
+ 我 想 要 导游 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  / 0  0  19  4  13  2  5  4  25  26  12  9  29  14  11  14  15  15  16  
+fine . wait here . i 'll get the car and pull up by the door . 
+ 当然 可以 了 。 请 在 这儿 稍等 一下 。 把 车 停 在 门 那 边 吧 。
+0  1  2  3  4  5  6  / 4  2  2  5  5  6  
+do you have a hotel doctor ? 
+ 饭店 里 有 医生 吗 ?
+0  1  2  3  4  / 0  1  2  1  0  2  3  3  4  
+which line for houston ? 
+ 去 休斯顿 的 是 哪 一 条 路线 ?
+0  1  2  3  4  5  / 0  1  2  4  3  3  5  
+i unk unk drink this . 
+ 我 没有 喝 这 种 饮料 。
+0  1  2  3  4  5  6  / 1  2  5  6  
+it must be my lucky day . 
+ 今天 很 走运 。
+0  1  2  3  4  5  / 2  3  4  5  
+what is today 's date ? 
+ 今天 是 几号 ?
+0  1  2  3  4  5  / 2  4  5  
+no , not at all . 
+ 对 的 。
+0  1  2  3  4  / 0  0  2  3  3  4  
+are these good seats ? 
+ 这里 是 好 位子 吗 ?
+0  1  2  3  / 0  1  1  2  3  
+please sign here . 
+ 请 在 这里 签字 。
+0  1  2  3  4  5  6  7  / 0  1  3  3  4  6  6  7  
+i 'm going to the savoy hotel . 
+ 我 正 想 去 unk 伊 unk 。
+0  1  2  3  4  5  / 2  1  2  4  4  5  
+are there any night tours ? 
+ 有 晚上 的 旅游团 吗 ?
+0  1  2  3  4  5  6  7  8  / 5  4  3  7  8  
+where can i find a big department store ? 
+ 大 unk 在 哪里 ?
+0  1  2  3  4  / 0  1  1  2  3  3  4  
+please call a taxi . 
+ 请 帮 我 叫出 租 车 。
+0  1  2  3  4  5  6  / 1  3  9  6  
+i was hit by a car . 
+ 被 车撞 了 。
+0  1  2  3  4  5  / 1  2  3  4  5  
+where is the swimsuit department ? 
+ 游泳 unk 在 哪里 ?
+0  1  2  3  4  5  6  / 0  8  9  3  4  2  5  6  
+how much is the green fee ? 
+ 打 一 场 的 费用 是 多少 ?
+0  1  2  3  4  5  6  / 1  3  4  5  6  
+with cream and sugar , please . 
+ 请 加糖 和 牛奶 。
+0  1  2  3  4  5  / 0  4  3  2  10  5  
+yes . here it is . 
+ 好 的 , 请 看 。
+0  1  2  3  4  5  6  7  8  9  10  / 11  12  0  1  3  4  5  6  6  6  9  8  8  10  
+smith and grand law offices . may i help you ? 
+ 这里 是 史密斯 unk 律师 事务所 。 请 问 您 有 什么 事 ?
+0  1  2  3  / 1  2  3  
+it 's east . 
+ 是 东面 。
+0  1  2  3  4  / 2  3  3  4  
+it 's too cold . 
+ 太 凉 了 。
+0  1  2  3  4  5  6  / 2  3  5  6  
+i don unk know my size . 
+ 不 知道 尺寸 。
+0  1  2  3  4  / 0  2  3  4  
+where is the telephone ? 
+ 电话 在 哪里 ?
+0  1  2  3  4  / 1  3  3  4  
+i 've had enough . 
+ 已经 够 了 !
+0  1  2  3  4  5  6  7  8  / 7  6  3  5  4  8  
+can i have my hair cut , please ? 
+ 请 给 我 剪 头发 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  2  2  3  5  5  19  20  10  4  23  8  9  26  11  11  12  
+is it made in australia ? i don unk want japanese unk . 
+ 是 澳大利亚 生产 的 吗 ? 要 是 日本 生产 的 unk 可 就 讨厌 了 。
+0  1  2  3  4  5  6  / 0  8  3  4  2  5  6  
+i can unk move by myself . 
+ 一 个 人 动 不 了 。
+0  1  2  3  4  5  6  7  / 3  4  5  5  6  6  6  
+i wonder if this is your stapler . 
+ 这 是 您 的 订书机 吗 ?
+0  1  2  3  4  5  / 0  1  4  2  4  5  
+that 's for room service . 
+ 是 客房 服务 的 费用 。
+0  1  2  3  4  5  / 3  2  4  5  
+i don unk like you . 
+ 我 讨厌 你 。
+0  1  2  3  4  5  6  7  8  9  / 2  0  0  1  8  9  
+how long does it take to have them reissued ? 
+ unk 要 多 长 时间 ?
+0  1  2  3  4  5  6  / 1  5  4  4  6  
+how much is it per day ? 
+ 一 天 多少 钱 ?
+0  1  2  3  4  5  6  7  8  / 1  3  2  6  7  8  
+i really don unk care for this anyway . 
+ 反正 也 不 太 喜欢 。
+0  1  2  3  / 0  1  2  3  
+what a unk . 
+ 太 失望 了 。
+0  1  2  3  4  5  / 0  0  0  1  4  4  4  5  
+can i get a discount ? 
+ 不 能 给 我 便宜 一点儿 吗 ?
+0  1  2  3  / 0  2  3  
+yes , sir . 
+ 好 的 。
+0  1  2  3  4  5  6  / 3  5  6  
+i don unk have an appetite . 
+ 没 食欲 。
+0  1  2  3  4  5  6  7  8  9  / 10  2  4  1  3  5  7  8  8  9  9  
+may i drop the car off at my destination ? 
+ 这 辆 车 可以 在 用完 的 地方 还 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  2  4  5  6  8  9  
+can i see the car before i rent it ? 
+ 租车 前 先 让 我 看看车 。
+0  1  2  3  4  5  6  7  8  / 2  3  4  3  13  7  8  
+which would you like , tea or coffee ? 
+ 您 要 unk 还 是 咖啡 ?
+0  1  2  3  4  5  6  7  8  9  / 3  1  2  5  4  8  7  17  9  
+i just don unk know how to thank you . 
+ 不 知 该 怎么 感谢 您 才 好 。
+0  1  2  3  4  5  6  7  8  / 2  3  7  8  
+i have a severe pain in my stomach . 
+ 肚子 很 痛 。
+0  1  2  3  / 1  2  3  3  
+is this okay ? 
+ 这样 可以 吗 ?
+0  1  2  / 0  1  2  
+fourteen days . 
+ 十四 天 。
+0  1  2  3  4  / 0  1  1  2  2  3  4  4  
+you see those machines ? 
+ 能 看见 那 边 的 机器 吗 ?
+0  1  2  3  4  5  6  / 0  1  9  2  3  4  6  14  
+what are the duty free procedures ? 
+ 请 告诉 我 怎么 办 免税 手续 。
+0  1  2  3  4  5  6  7  8  / 0  2  3  5  6  7  8  
+i want to check out one day early . 
+ 我 想 提前 一 天 退房 。
+0  1  2  3  4  5  6  / 0  1  0  2  5  6  6  
+can i get there by tonight ? 
+ 今晚 为止 能 到 那里 吗 ?
+0  1  2  3  4  5  / 1  2  4  5  
+where 's the dining room ? 
+ 食堂 在 哪里 ?
+0  1  2  3  4  / 2  3  0  3  4  
+where are you from ? 
+ 您 从 哪里 来 ?
+0  1  2  3  4  5  6  / 2  1  3  5  6  
+what time would best suit you ? 
+ 您 什么 时候 方便 ?
+0  1  2  3  4  5  6  7  / 1  2  4  5  6  7  
+what 's the purpose of your visit ? 
+ 旅游 的 目的 是 什么 ?
+0  1  2  3  / 2  1  0  3  
+what 's this ? 
+ 这 是 什么 ?
+0  1  2  3  4  5  / 6  2  4  1  5  
+how much extra is it ? 
+ unk 费用 是 多少 ?
+0  1  2  3  4  5  / 1  4  5  
+it leaves at eleven thirty . 
+ unk 出发 。
+0  1  2  3  4  5  6  7  8  / 0  2  1  5  6  5  8  
+we 'd like this and this , please . 
+ 请 给 我 这个 和 这个 。
+0  1  2  3  4  5  / 0  1  2  2  3  3  4  5  
+i have never played tennis . 
+ 我 没 打 过 一 次 网球 。
+0  1  2  3  4  5  / 6  0  3  2  3  4  5  
+the tour bus left me . 
+ 被 unk 在 unk 上 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  4  17  12  13  10  8  11  6  
+i 'd like to return it . could i have a refund , please ? 
+ 我 想 unk , 请 给 我 退钱 。
+0  1  2  3  4  5  / 0  2  4  4  5  
+ah , here you are . 
+ 啊 , 有 了 。
+0  1  2  3  4  5  6  7  / 0  2  3  4  6  7  
+please send a bellboy for my baggage . 
+ 请 叫 服务生 搬 行李 。
+0  1  2  3  4  / 2  1  2  1  4  
+room service , please . 
+ 我 要 unk 服务 。
+0  1  2  3  4  5  / 1  4  5  
+please take care of yourself . 
+ 请 保重 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 2  8  14  7  3  11  18  
+would you give me a unk call at eight tomorrow morning ? 
+ 明早 八点 能 叫醒 我 吗 。
+0  1  2  3  / 0  2  1  3  
+who is it ? 
+ 哪 一 位 ?
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i 'd like a twin room . 
+ 我 要 标准 双 人间 。
+0  1  2  3  4  5  6  / 0  1  2  3  2  4  4  5  6  6  
+could you bring me more blankets ? 
+ 能 再 给 我 拿 条 毯子 过来 吗 ?
+0  1  2  3  4  / 0  3  2  4  
+we 'd better hurry . 
+ 得 快点 了 。
+0  1  2  3  4  5  6  / 0  1  4  2  3  5  5  6  
+where is the household goods department ? 
+ 卖 家庭 用品 的 柜台 在 哪里 ?
+0  1  2  / 1  2  
+see you . 
+ 再见 。
+0  1  2  / 0  1  2  
+all right . 
+ 明白 了 。
+0  1  2  3  4  5  6  / 2  1  2  3  5  6  6  
+do you have a larger room ? 
+ 没有 更 大 的 房间 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  0  5  7  4  8  
+where do i get off for city hall ? 
+ 去 市政府 在 哪儿 下车 ?
+0  1  / 0  0  1  
+okay . 
+ 明白 了 。
+0  1  2  3  4  5  6  / 0  1  1  4  3  5  5  6  
+where should i leave the cart ? 
+ 把 手推车 放 在 哪儿 好 呢 ?
+0  1  2  3  4  / 3  1  2  2  4  4  
+can i help you ? 
+ 您 有 什么 事 吗 ?
+0  1  2  3  4  / 0  1  1  3  1  3  4  
+what are your hobbies ? 
+ 您 的 兴趣 爱好 是 什么 ?
+0  1  2  / 1  2  
+not good . 
+ 没有 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  3  3  4  6  7  5  9  10  
+would you carry my suitcase to my room , please ? 
+ 能 帮 我 把 行李 送到 房间 去 吗 ?
+0  1  2  3  4  5  6  7  / 1  2  5  4  6  
+could we have a spoon , please ? 
+ 请 把 unk 拿来 。
+0  1  2  3  4  5  6  / 2  4  3  5  6  6  
+do you have some unk tea ? 
+ 有 unk 花 茶 吗 ?
+0  1  2  3  4  5  / 1  1  2  4  4  5  
+may i use a flash ? 
+ 可以 打 闪光 灯 吗 ?
+0  1  2  3  / 0  2  2  3  
+please replace it . 
+ 请 换 一下 。
+0  1  2  3  4  / 0  2  2  3  4  
+excuse me , waiter . 
+ 服务生 , unk 了 。
+0  1  2  3  4  5  / 4  3  8  5  
+i 've lost my passport . 
+ 护照 丢 了 。
+0  1  2  3  4  5  6  7  8  / 0  3  4  5  7  8  
+i would like to buy some key unk . 
+ 我 想 买 个 钥匙链 。
+0  1  2  3  4  5  / 0  4  3  2  3  5  
+where is that in japan ? 
+ 在 日本 的 什么 地方 ?
+0  1  2  3  4  5  6  / 0  2  3  3  11  6  
+just a hair cut , please . 
+ 光 理发 就 可以 了 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  0  2  5  4  16  17  7  8  8  10  22  
+yes , we can . may i have your name ? 
+ 是 的 , 可以 。 请 告诉 我 您 的 姓名 。
+0  1  2  / 0  1  2  
+mr. robinson . 
+ unk 先生 。
+0  1  2  3  4  / 0  1  2  3  4  
+i 'm really sorry . 
+ 实在 对 不 起 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  3  14  6  7  8  10  11  
+may i help you ? are you looking for anything special ? 
+ 欢迎 光临 。 您 在 找 什么 ?
+0  1  2  3  4  5  6  7  / 1  9  4  3  3  5  5  6  7  
+what was that announcement they just made ? 
+ 刚才 的 unk 广播 说 什么 了 啊 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  / 0  3  5  6  6  8  27  12  13  10  18  16  19  20  
+so , i have to stay here tonight don unk i ? can you reserve a hotel room for me ? 
+ 今晚 得 住 在 这儿 啦 。 能 帮 我 订 酒店 吗 ?
+0  1  2  3  / 0  0  2  7  3  
+medium , please . 
+ 要 中等 程度 的 。
+0  1  2  3  4  5  / 2  4  5  
+the food was very delicious . 
+ 非常 好吃 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  0  2  4  15  5  17  6  8  8  9  10  
+nice to meet you , too . i 'm unk . 
+ 初 次 见面 , 请 多 unk 。 我 叫 unk 。
+0  1  2  3  4  5  6  / 0  0  2  3  5  6  
+where can i catch a taxi ? 
+ 在 哪儿 可以 打到 出租车 ?
+0  1  2  3  4  / 0  1  3  2  2  3  4  
+the view was unk . 
+ 风景 美丽 unk 让 人 unk 。
+0  1  2  3  4  5  6  7  / 0  2  4  3  6  5  7  
+does the tour bus have a restroom ? 
+ unk 上 有 洗手 间 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  4  4  6  6  5  7  10  
+i have absolutely no unk of saying something like that . 
+ 我 根本 没 说 过 那样 的 话 。
+0  1  2  3  4  5  6  7  8  9  10  / 11  3  3  2  8  7  5  8  4  1  9  10  
+how long does it take from the hotel to downtown ? 
+ 从 那 个 unk 到 unk 市区 要 多 长 时间 ?
+0  1  2  3  4  5  / 1  0  3  2  4  4  4  5  
+do you accept this card ? 
+ 能 用 这 张 卡 付款 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 2  3  8  10  11  
+do i need to make an appointment to see a doctor ? 
+ 看病 要 预约 吗 ?
+0  1  2  3  4  5  6  / 1  2  4  3  5  6  
+what credit cards do you honor ? 
+ 能 用 哪 种 信用卡 ?
+0  1  2  / 1  2  
+you see . 
+ 唉 。
+0  1  2  3  4  5  6  7  / 0  0  3  3  1  5  4  5  4  6  7  
+could you get me a bigger size ? 
+ 能 给 我 拿 再 大 一 点 的 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 1  1  13  2  4  8  6  8  9  10  
+i 'm sorry , we don unk accept credit cards . 
+ 真 对 不 起 , 信用卡 不 能 用 。
+0  1  2  3  4  / 0  6  1  2  2  3  4  
+i have severe hives . 
+ 出 了 unk , 很 厉害 。
+0  1  2  3  4  5  6  7  8  / 3  2  3  6  7  8  
+do i have to transfer to get there ? 
+ 去 那儿 要 换车 吗 ?
+0  1  2  3  4  5  / 0  0  3  3  4  5  
+where can i check in ? 
+ 在 哪里 办理 登机 手续 ?
+0  1  2  3  4  5  6  / 1  1  2  3  3  4  5  6  
+one unk unk black straight up . 
+ 要 黑 标签 的 纯 苏格兰 威士忌 。
+0  1  2  3  4  5  / 0  0  1  1  2  4  4  5  
+how often do you travel ? 
+ 您 多 长 时间 旅行 一 次 ?
+0  1  2  3  4  5  6  7  8  9  10  / 11  7  6  9  8  1  1  10  
+how much does it cost to send this to japan ? 
+ 把 这个 寄到 日本 要 多少 钱 ?
+0  1  2  3  4  5  / 0  2  3  5  
+by air mail , please . 
+ 请 用 unk 。
+0  1  2  3  4  5  / 2  1  4  3  3  5  
+what did you just say ? 
+ 您 刚才 说 什么 了 ?
+0  1  2  3  4  5  / 1  2  3  2  4  4  4  5  
+that 's not too long . 
+ 用 不 了 那么 长 时间 吧 。
+0  1  2  3  4  5  6  / 1  8  0  2  11  4  5  6  6  
+may i recline my seat now ? 
+ 我 现在 能 把 unk 放 倒 吗 ?
+0  1  2  3  / 0  1  2  3  
+just a minute . 
+ 请 稍 等 。
+0  1  2  3  4  5  6  7  8  9  / 1  2  12  2  4  4  5  4  4  7  6  7  8  9  
+i 'll see if twenty and unk are available . 
+ 我 看 一 看 二十 号 和 二十一 号 是 不 是 空着 。
+0  1  2  3  4  5  6  7  8  / 1  4  3  7  6  6  8  
+i have to get to long beach today . 
+ 一定 要 在 今天 赶到 长滩 。
+0  1  2  3  4  5  6  7  / 1  2  4  5  6  7  
+i think his outfits are so unk . 
+ 他 的 衣服 很 unk 。
+0  1  2  3  4  5  6  / 2  0  3  5  6  
+who are you going to meet ? 
+ 您 跟 谁 见面 ?
+0  1  2  3  4  5  6  / 0  2  3  5  6  
+this is your seat reservation ticket . 
+ 这 是 unk 票 。
+0  1  2  3  4  5  / 1  2  1  3  4  5  
+how do i get there ? 
+ 去 那儿 应该 怎么 走 ?
+0  1  2  / 1  0  0  2  
+track three . 
+ 三 号 站台 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  2  14  5  4  6  8  10  10  11  
+oh no . could you tell them to be quiet then ? 
+ 啊 。 那么 请 您 让 他们 安静 点 。
+0  1  2  3  4  5  6  / 2  3  5  6  
+my room number is five eleven . 
+ 房间号 是 五一一 。
+0  1  2  3  4  5  6  / 2  4  3  3  11  5  6  
+what 's this horse 's name ? 
+ 这 匹 马 叫 什么 名字 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 1  0  6  5  7  10  21  22  13  13  14  
+that will be four hundred dollars altogether . how would you like to pay ? 
+ 一共 是 四百 美元 。 您 用 什么 方式 付款 ?
+0  1  2  3  4  5  6  7  8  9  10  / 1  2  3  4  7  8  9  10  
+could we have a table by the window , please ? 
+ 请 给 我 靠 窗 的 座位 。
+0  1  2  3  4  5  6  7  8  9  10  / 1  2  3  14  5  7  9  10  
+this is pure silk , so please handle it carefully . 
+ 是 纯 真丝 的 , unk unk 。
+0  1  2  3  4  / 0  1  1  1  2  3  4  
+please say it again . 
+ 请 您 再 说 一 遍 。
+0  1  2  3  4  5  6  7  / 0  1  1  2  5  4  5  6  7  7  
+do you have a table for six ? 
+ 有 能 坐 六 个 人 的 桌子 吗 ?
+0  1  2  3  4  5  / 1  7  2  3  4  5  
+i have traveler 's insurance . 
+ 加入 了 海外 旅游 保险 。
+0  1  / 0  1  
+police . 
+ 警察 !
+0  1  2  3  4  5  / 1  1  2  3  4  5  
+i 've locked myself out . 
+ 钥匙锁 在 房间 里 了 。
+0  1  2  3  4  5  6  / 4  1  3  3  5  6  
+where can i find unk napkins ? 
+ unk 卫生巾 摆 在 哪里 ?
+0  1  2  3  4  5  6  7  8  / 0  2  3  5  7  8  
+what time are we arriving in new york ? 
+ 预计 几 点 到达 纽约 ?
+0  1  2  3  4  5  6  / 0  1  2  5  4  6  
+can i get there on foot ? 
+ 步行 可以 到 那里 吗 ?
+0  1  2  3  4  5  6  / 0  2  4  4  4  5  6  
+i want to be your friend . 
+ 我 想 和 你 交 朋友 。
+0  1  2  3  4  5  / 0  2  2  3  4  5  
+how long will it keep ? 
+ 可以 保存 到 什么 时候 ?
+0  1  2  3  4  5  6  7  8  9  10  / 2  3  3  2  4  4  6  7  9  9  10  
+boarding for delta airlines flight six two three is delayed . 
+ unk 航空 公司 unk 次 航班 将 推迟 登机 时间 。
+0  1  2  3  4  5  6  / 0  2  4  5  6  
+i 'm crazy about modern jazz . 
+ 我 热衷于 现代 爵士乐 。
+0  1  2  3  4  / 0  1  3  4  
+how much in all ? 
+ 一共 多少 钱 ?
+0  1  2  3  4  5  6  7  / 0  1  1  2  6  7  
+take me to a hospital , please . 
+ 请 带 我 去 医院 。
+0  1  2  3  / 0  0  2  2  3  
+she 's cute . 
+ 她 很 可爱 啊 。
+0  1  2  3  4  5  6  7  8  / 1  2  4  5  7  8  
+thank you very much for the great meal . 
+ 饭菜 很 好吃 , 谢谢 。
+0  1  2  3  4  5  6  7  8  / 0  3  4  5  7  8  
+i 'd like to get these clothes cleaned . 
+ 我 要 洗 这些 衣服 。
+0  1  2  3  4  5  6  7  8  / 0  10  3  4  5  6  7  8  
+what 's the exchange rate for yen today ? 
+ 请 告诉 我 今天 的 日元 汇率 。
+0  1  2  3  4  5  / 1  2  4  5  
+where is the post office ? 
+ 邮局 在 哪儿 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  2  3  4  5  6  8  9  11  12  
+if you can unk stop , it would be better to fall . 
+ 如果 停 不 下来 的话 , 最 好 unk 。
+0  1  2  3  / 0  1  2  3  
+i like jazz . 
+ 我 喜欢 爵士乐 。
+0  1  2  / 1  2  
+thank you . 
+ 谢谢 。
+0  1  2  3  4  5  / 0  1  1  3  4  5  
+i would recommend a necklace . 
+ 我 向 您 推荐 项链 。
+0  1  2  3  4  5  6  7  / 2  5  6  7  
+i 'm planning to go to liverpool . 
+ 打算 去 利物浦 。
+0  1  2  3  4  / 1  1  2  2  4  4  
+i 'll have breakfast b. 
+ 请来 一 份 b 早餐 。
+0  1  2  3  4  5  6  7  / 6  2  3  5  7  7  
+is there a flea market open today ? 
+ 今天 有 跳蚤 市场 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  3  0  9  8  7  10  10  11  
+do you know where i can find a japanese speaking doctor ? 
+ 您 认识 会 说 日语 的 医生 吗 ?
+0  1  2  3  4  5  6  / 2  0  0  3  5  5  6  
+where can i rent a car ? 
+ 可以 在 哪里 借 到 车 ?
+0  1  2  3  4  5  6  7  8  / 0  2  4  6  7  4  7  8  
+i 'd like to contact the japanese embassy . 
+ 我 想 和 日本 大使馆 联系 一下 。
+0  1  2  3  4  5  / 3  1  2  4  5  
+where is the money exchange ? 
+ 货币 兑换处 在 哪里 ?
+0  1  2  3  4  5  / 0  0  3  2  3  4  5  
+hold the line , please . 
+ 请 不 要 挂断 , 稍候 。
+0  1  2  3  4  / 0  2  1  3  4  
+how much to downtown ? 
+ 到 unk 多少 钱 ?
+0  1  2  3  4  5  / 1  3  2  4  3  5  
+it 's on the corner . 
+ 就 在 那 个 unk 。
+0  1  2  3  4  / 0  1  3  4  4  
+i 'll hang up . 
+ 我 要 挂 了 。
+0  1  2  3  / 0  2  3  
+i have chills . 
+ 我 有点冷 。
+0  1  2  3  4  5  6  / 1  3  3  3  6  
+let me out here , please . 
+ 我 在 这儿 下车 。
+0  1  2  3  4  5  / 1  1  2  4  3  5  
+let me get off here . 
+ 让 我 在 这里 下车 。
+0  1  2  3  4  5  / 0  1  2  3  4  5  
+are there any sightseeing tours ? 
+ 有 没 有 观光 旅游团 ?
+0  1  2  3  4  5  6  / 1  2  2  3  2  4  5  6  
+it 's a large blue suitcase . 
+ 是 一 个 蓝色 的 大 行李箱 。
+0  1  2  3  4  5  / 1  4  3  5  
+what 's the admission fee ? 
+ 入场费 多少 钱 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  2  3  4  6  5  7  9  12  13  13  
+it 's cute . i like it . may i try it on ? 
+ 真 可爱 。 我 挺 喜欢 。 可以 试穿 吗 ?
+0  1  2  3  4  / 3  2  3  4  
+let 's go together . 
+ 一起 去 吧 。
+0  1  2  3  4  5  6  7  / 2  4  3  11  4  6  6  7  
+i left my plane ticket at home . 
+ 把 机票 忘 在 家 里 了 。
+0  1  2  3  4  5  / 1  2  4  5  
+where is the opera house ? 
+ 歌剧院 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  / 0  1  3  2  5  6  8  6  9  9  
+could you develop and print these rolls of film ? 
+ 请 给 我 冲洗 这 卷 胶卷 好 吗 ?
+0  1  2  3  4  5  / 0  1  1  4  5  
+how about a back rub ? 
+ 要 按摩 unk 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  / 0  0  1  3  4  6  7  8  10  11  13  14  15  16  17  34  17  18  18  
+next person please . give me your passport and customs form . do you have anything to declare ? 
+ 下 一 位 。 请 出示 护照 和 申报单 。 你 有 什么 要 申报 的 东西 吗 ?
+0  1  2  3  4  5  6  / 1  3  2  5  4  5  6  
+it 's on the second corner . 
+ 是 在 第二 个 拐角 那里 。
+0  1  2  3  4  5  6  7  8  9  10  / 2  1  1  3  5  4  7  8  9  10  
+would you change it to a room facing the sea ? 
+ 麻烦 您 给 换 一 个 unk 的 房间 。
+0  1  2  3  / 2  1  3  
+check , please . 
+ 请 结帐 。
+0  1  2  3  / 0  2  3  
+onions , please . 
+ 要 洋葱 。
+0  1  2  3  4  5  / 2  1  3  4  5  
+what time does boarding start ? 
+ 几 点 开始 登机 ?
+0  1  2  3  / 0  1  2  3  
+about unk seconds . 
+ 二十五 秒 左右 。
+0  1  2  3  4  5  6  7  8  9  / 0  2  3  5  5  6  4  8  9  
+i 'd like to send this parcel to japan . 
+ 我 想 把 这 件 包裹 寄到 日本 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  / 8  7  5  1  1  26  10  28  16  11  17  19  20  
+i 'll come for the fitting at three tomorrow afternoon . please send it to japan when it is finished . 
+ 明天 三 点 我 来 unk 。 做好 后 请 寄到 日本 。
+0  1  2  3  / 0  1  2  3  
+you 're welcome . 
+ 不 用 谢 。
+0  1  2  3  4  5  6  7  / 0  0  2  2  6  5  3  4  7  
+my watch loses ten minutes a day . 
+ 我 的 表 一 天 慢 十 分钟 。
+0  1  2  3  4  5  6  7  8  / 1  2  2  3  4  6  7  8  
+i 'm sorry , i do n't know . 
+ 对 不 起 , 我 不 知道 。
+0  1  / 0  1  
+help . 
+ 救命 !
+0  1  2  3  4  5  6  7  8  / 3  3  7  6  8  8  
+do you have any local specialties or something ? 
+ 有 什么 地方 特色菜 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  2  3  5  7  8  
+i 'd like to place a unk call . 
+ 我 想 打 叫号 电话 。
+0  1  2  3  4  5  / 1  2  2  4  4  5  
+may i use a flash ? 
+ 可以 用 闪光 灯 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  0  2  3  3  9  5  5  20  21  8  8  10  11  
+will you recommend some interesting places to go in this city ? 
+ 你 能 推荐 几 个 这个 城市 值得 一 看 的 地方 吗 ?
+0  1  2  3  4  5  6  / 0  2  2  3  5  5  6  
+is it safe even for beginners ? 
+ 即使 初学者 也 没 关系 吗 ?
+0  1  2  3  4  / 0  1  2  3  3  4  
+i asked for fish . 
+ 我 点 的 是 鱼 。
+0  1  2  3  4  5  6  7  / 2  1  10  4  3  5  5  6  7  
+do you have one one size bigger ? 
+ 有 再 大 一 号 尺寸 的 吗 ?
+0  1  2  3  4  5  6  7  / 0  3  4  6  7  
+i 'd like to see a musical . 
+ 我 想 看 音乐剧 。
+0  1  2  3  4  5  / 0  2  8  4  4  5  
+i 'd like it rare . 
+ 我 要 unk 半熟 的 。
+0  1  2  3  4  5  6  / 0  1  2  3  4  4  5  6  
+please show me to my seat . 
+ 请 领 我 去 我 的 座位 。
+0  1  2  3  / 0  1  2  3  
+to hyde park . 
+ 去 海德 公园 。
+0  1  2  3  4  5  / 0  3  2  3  4  5  
+whole wheat bread , please . 
+ 请 给 我 unk 面包 。
+0  1  2  3  / 0  2  2  3  
+is breakfast included ? 
+ 含 早餐 吗 ?
+0  1  2  3  4  5  6  7  8  / 9  10  11  1  4  5  7  8  8  
+are there two seats available on that flight ? 
+ 那 个 航班 有 两 个 空位 吗 ?
+0  1  2  3  / 1  2  3  
+it 's me . 
+ 是 我 。
+0  1  2  3  4  5  6  7  8  / 1  2  3  2  4  3  7  6  8  8  
+could you show me something in my size ? 
+ 能 给 我 看看 适合 我 尺寸 的 吗 ?
+0  1  2  3  4  / 1  2  7  3  4  
+which one is mine ? 
+ 哪个 是 我 的 ?
+0  1  2  3  4  5  6  / 0  2  1  3  2  5  5  6  
+can i have a medical certificate ? 
+ 可以 给 我 一 份 诊断书 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54  55  56  57  58  59  60  61  / 7  2  64  3  3  5  68  0  10  10  9  10  17  14  15  15  15  79  19  23  82  83  84  26  27  21  29  89  42  91  36  36  37  32  11  34  39  99  100  101  45  50  56  105  106  107  43  53  52  111  57  59  60  60  59  61  
+the main reason is that in high schools and unk schools for university entrance exams they had to study so hard that when they get to college they 're unk to enjoy a short period of unk in their lives before joining the work force . everybody knows that the unk of japanese workers ' lives is no bed of unk . 
+ 主要 理由 大概 是 这样 的 。 在 高中 及 unk 补习 班 , 他们 必须 刻苦 unk , 而 进入 大学 以后 , 他们 就 unk 享受 在 走上 社会 之前 的 一 段 unk 的 短暂 休息 时间 。 大家 都 知道 , 对于 工作 的 日本人 来说 , 现实 unk unk 的 。
+0  1  2  3  4  5  6  7  8  9  / 0  2  9  8  3  5  6  6  7  7  9  
+yes , the toasted coconut and pineapple , please . 
+ 是 的 。 请 给 我 烤 椰子 和 unk 。
+0  1  2  3  4  / 2  3  2  4  
+is there a charge ? 
+ 要 交钱 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  2  3  2  8  4  6  7  7  7  9  
+will you grill this steak a little bit more ? 
+ 请 把 这个 牛排 再 稍微 烤 一下 好 吗 ?
+0  1  2  3  4  5  / 1  2  2  2  4  4  5  
+it 's cherry blossom season . 
+ 是 樱花 盛开 的 季节 了 。
+0  1  2  3  4  5  / 4  2  3  5  
+where are we passing now ? 
+ 现在 unk 哪里 ?
+0  1  2  3  4  5  6  7  / 0  1  2  3  5  4  6  7  
+please tell him to call me back . 
+ 请 叫 他 给 我 打 电话 。
+0  1  2  3  4  5  6  7  8  / 0  1  2  4  5  6  7  8  
+passport , traveler 's checks , airline ticket . 
+ 护照 、 旅行 支票 和 飞机 票 。
+0  1  2  3  4  5  6  7  8  / 1  4  3  7  8  
+what would you like for the main course ? 
+ 主菜 您 要 什么 ?
+0  1  2  3  4  / 0  2  3  3  4  
+please write it here . 
+ 请 写 在 这儿 。
+0  1  2  3  4  5  / 6  2  3  4  5  
+do you take unk medicine ? 
+ 在 吃 unk 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+i 'm very sorry . 
+ 实在 对 不 起 。
+0  1  2  3  4  5  6  7  / 0  1  3  2  6  6  7  
+you have given me the wrong change . 
+ 你 给 我 找错 钱 了 。
+0  1  / 0  1  
+pardon ? 
+ 什么 ?
+0  1  / 0  0  1  
+hello . 
+ 你 好 。
+0  1  2  3  4  5  6  7  / 1  0  2  5  3  4  4  3  6  7  
+excuse me . what is that building ? 
+ 请 问 。 那 幢 大楼 是 什么 地方 ?
+0  1  2  3  4  5  6  / 0  2  1  5  4  3  5  6  
+now please take one of me . 
+ 现在 请 给 我 拍 一 张 。
+0  1  2  3  4  5  / 1  3  4  5  
+i 'm ready to order . 
+ 我 想 点菜 。
+0  1  2  3  4  / 0  0  1  3  3  3  4  4  
+does anyone speak japanese ? 
+ 有 会 说 日语 的 人 吗 ?
+0  1  2  3  4  5  / 2  2  3  4  1  4  5  
+what is his room number ? 
+ 他 的 房间 号码 是 多少 ?
+0  1  2  3  4  5  6  / 1  0  2  3  3  4  13  4  5  5  6  
+could you recommend some popular tours ? 
+ 你 能 推荐 几 个 比较 unk 的 旅游 吗 ?
+0  1  / 0  0  1  
+okay . 
+ 明白 了 。
+0  1  2  3  4  5  6  / 1  0  2  2  3  4  5  6  6  
+can i borrow some opera glasses ? 
+ 我 可以 借 几 个 歌剧 眼镜 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  2  3  5  6  7  8  9  
+i 'd like to get a basic cosmetic set . 
+ 我 想 要 一 套 基础 化妆品 。
+0  1  2  3  4  5  / 3  1  0  4  5  
+what brands do you like ? 
+ 您 喜欢 什么 牌子 ?
+0  1  2  3  4  5  / 0  0  2  3  4  5  
+where can i get that ? 
+ 在 哪儿 能 弄到 那个 ?
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i 'd like to do unk . 
+ 我 想 参加 障碍 滑雪 。
+0  1  2  3  4  5  / 4  2  1  3  3  5  
+how do you eat this ? 
+ 这个 你 怎么 吃 呢 ?
+0  1  2  3  4  5  6  7  8  / 4  5  2  3  13  6  7  8  
+take it three times a day after meals . 
+ 一 天 三 次 , 饭后 服用 。
+0  1  2  3  4  / 0  1  3  4  
+i have a receipt . 
+ 我 有 收据 。
+0  1  2  3  4  5  6  7  8  9  / 0  3  0  4  7  5  8  9  
+i 'd like a room with an ocean view . 
+ 我 要 能 看见 大海 的 房间 。
+0  1  2  3  4  5  6  7  8  9  10  / 1  2  3  4  5  9  9  10  
+i 'm checking out , please send a bell boy . 
+ 我 要 退房 , 请 叫 unk 。
+0  1  2  3  4  5  / 0  1  3  4  5  
+you should go by car . 
+ 你 应该 开车 去 。
+0  1  2  3  4  5  / 2  4  5  
+do you want a ride ? 
+ 坐车 吗 ?
+0  1  2  3  4  5  / 0  2  4  4  5  
+let 's practice your volley . 
+ 来 练 排球 吧 。
+0  1  2  3  4  5  6  / 3  4  2  1  4  5  6  
+i 'm pleased you could come . 
+ 您 能 来 我 很 高兴 。
+0  1  2  3  4  / 2  3  4  4  
+do you have wine ? 
+ 有 葡萄酒 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  3  4  6  7  8  
+that comes to five dollars and unk cents . 
+ 是 五 美元 三十二 美分 。
+0  1  2  3  / 1  2  3  
+give it back . 
+ unk 我 。
+0  1  2  3  4  5  6  7  8  / 0  3  4  6  5  7  8  
+i 'd like to stay for two nights . 
+ 我 想 住 两 个 晚上 。
+0  1  / 0  1  
+unk . 
+ 再见 。
+0  1  2  3  4  5  6  / 0  1  2  3  4  12  5  6  
+there 's a good movie playing . 
+ 正在 上映 一 部 有趣 的 电影 。
+0  1  2  3  4  5  / 1  2  4  5  5  
+may i open the window ? 
+ 可以 打开 窗户 吗 ?
+0  1  2  / 1  2  
+thank you . 
+ 谢谢 。
+0  1  2  3  / 0  0  1  2  3  
+west travel agency . 
+ 这里 是 西方 旅行社 。
+0  1  2  3  4  5  / 0  1  2  2  4  5  5  
+are these lenses on sale ? 
+ 这些 镜头 是 打折 销售 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  15  16  17  4  5  4  6  7  7  8  11  10  12  13  
+they have a different way of unk . i ca n't follow them . 
+ 他们 用 手 打 拍子 的 方式 不 一样 。 我 跟 不 上 。
+0  1  2  / 0  1  1  2  
+i disagree . 
+ 我 不 同意 。
+0  1  2  3  / 0  2  2  3  
+i got sick . 
+ 我 生病 了 。
+0  1  2  3  4  5  6  7  8  9  10  / 4  5  2  7  6  16  8  10  10  
+is there anything you do n't want us to do ? 
+ 有 不 希望 我们 做 的 事 吗 ?
+0  1  2  3  4  5  6  / 0  3  5  6  
+what 's the matter with me ? 
+ 我 怎么 了 ?
+0  1  2  3  4  5  6  7  8  / 1  0  2  3  7  6  15  8  8  
+could you exchange it for a new one ? 
+ 您 能 给 换 个 新 的 吗 ?
+0  1  2  3  4  5  6  7  / 6  9  2  1  1  2  3  15  3  5  4  19  20  21  22  6  7  
+eight singles and eight quarters , please . 
+ 请 给 我 八 张 一 美元 的 纸币 和 八 个 二十五 美分 的 硬币 。
+0  1  2  3  4  / 1  3  4  
+the line is busy . 
+ 电话 占线 。
+0  1  2  3  4  5  6  / 0  2  2  5  6  
+what kind of party is it ? 
+ 是 什么样 的 晚会 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  6  8  9  
+i 'd like to make a reservation , please . 
+ 我 想 预订 一下 。
+0  1  2  3  4  5  6  7  8  / 0  0  1  3  4  5  15  7  8  8  
+can i get some medicine that works better ? 
+ 能 给 我 一些 更 有效 的 药 吗 ?
+0  1  2  3  4  5  / 1  0  4  3  5  
+may i leave a message ? 
+ 我 能 留言 吗 ?
+0  1  2  3  4  5  6  7  / 0  1  2  5  5  6  7  
+it 's not on this material list . 
+ 这个 在 材料 清单 上 没有 。
+0  1  2  3  / 1  1  2  3  
+i 'm japanese . 
+ 我 是 日本人 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  1  3  5  6  6  8  9  8  8  7  23  10  
+he is right over there . he can help you . 
+ 他 在 那 边 。 他 会 来 帮 您 拿 行李 的 。
+0  1  2  3  4  5  6  / 0  1  2  3  4  5  6  
+my eyesight has suddenly gotten worse . 
+ 我 的 视力 突然 开始 下降 。
+0  1  2  3  4  5  / 2  3  4  0  10  5  5  
+can i check in here ? 
+ 登机 手续 这儿 能 办 吗 ?
+0  1  2  3  / 1  2  3  
+it 's delicious . 
+ 很 好吃 。
+0  1  2  3  4  5  6  / 0  1  2  1  3  3  4  5  6  
+please bring me some bath towels . 
+ 请 给 我 拿 几 个 浴巾 过来 。
+0  1  2  3  4  5  6  7  8  9  / 0  11  2  3  4  4  5  6  9  19  
+may i have your room number and your name ? 
+ 请 告诉 我 您 的 房间 号码 和 姓名 。
+0  1  2  3  4  5  / 1  2  3  4  5  
+i often run to school . 
+ 经常 跑步 去 上学 。
+0  1  2  3  4  5  6  / 1  3  5  3  4  6  6  
+can i eat in my room ? 
+ 可以 在 房间 用 餐 吗 ?
+0  1  2  3  4  / 2  3  4  
+my nose is running . 
+ 流鼻涕 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 2  1  0  3  2  5  6  8  9  10  11  11  12  13  14  
+the luggage i checked did n't come out . here is my claim tag . 
+ 我 托运 的 行李 还 没 出来 。 这 是 我 的 行李 票 。
+0  1  2  3  4  / 0  2  3  4  
+you 're really smart . 
+ 你 真 聪明 。
+0  1  2  3  4  5  6  7  8  / 2  4  11  7  8  
+do you have a history of chronic illness ? 
+ 有 慢性病 unk 吗 ?
+0  1  2  3  4  / 0  1  1  3  2  3  4  
+give me your money . 
+ 喂 ! 把 钱 交 出来 !
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  / 1  2  2  4  6  10  8  12  32  7  14  16  22  18  20  19  23  
+i 'm sorry , but i have just run out of business cards , so i ca n't give you one right now . 
+ 对 不 起 , 我 的 名片 正好 unk 了 , 所以 现在 没法 给 您 。
+0  1  2  3  4  5  / 0  0  1  3  3  4  5  
+a double room with bath . 
+ 要 带 浴室 的 双 人间 。
+0  1  2  3  4  / 0  2  3  3  4  
+it 's too sour . 
+ 这个 太 酸 了 。
+0  1  2  3  4  5  6  7  8  / 2  1  3  12  7  6  8  8  
+could n't you make it a little cheaper ? 
+ 你 不 可以 再 便宜 一些 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 12  1  2  3  4  6  18  9  10  9  11  
+this is endo , i booked a table at nine unk . 
+ 我 是 endo , 我 预订 了 九点钟 的 座位 。
+0  1  2  3  4  5  6  / 0  0  1  3  2  4  3  4  5  6  6  
+can i have a subway map ? 
+ 能 给 我 一 张 地铁 的 路线 图 吗 ?
+0  1  2  3  4  5  6  7  / 1  2  3  4  6  7  
+what kind of services do you have ? 
+ 你们 提供 什么样 的 服务 ?
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i 'd like a portable tv . 
+ 我 想 要 便携式 电视机 。
+0  1  2  3  / 1  3  
+i 'm sorry . 
+ unk 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  1  3  3  6  8  4  4  9  10  
+yes , sir . when would you like to go ? 
+ 好 的 , 先生 。 您 想 什么 时候 出发 ?
+0  1  2  3  4  5  / 1  0  8  9  2  3  4  5  5  
+may i take pictures here ? 
+ 我 可以 在 这里 照 张 相 吗 ?
+0  1  2  3  4  5  6  7  / 0  2  1  3  5  6  7  
+is there a unk bank near here ? 
+ 这 附近 有 unk 银行 吗 ?
+0  1  2  3  / 1  2  2  2  3  
+are you finished ? 
+ 您 用完 了 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 0  0  1  2  3  6  6  7  9  8  10  11  12  
+excuse me . could you tell me which subway goes to chicago ? 
+ 对 不 起 。 请 告诉 我 哪 趟 地铁 到 芝加哥 。
+0  1  2  3  4  / 2  3  0  3  4  
+where 's this seat ? 
+ 这个 座位 在 哪儿 ?
+0  1  2  3  4  5  6  7  / 1  1  2  3  3  3  7  7  
+can you gift wrap it , please ? 
+ 能 给 我 包装 成 礼品 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  1  2  5  6  7  7  9  10  13  14  
+january first to third is called unk unk and we celebrate the new year . 
+ 一月 一号 到 三号 被 称为 unk , 庆祝 新年 。
+0  1  2  3  4  5  6  7  8  9  / 1  11  2  3  4  15  5  6  8  9  
+i see . i 'll check it right away . 
+ 知道 了 。 我 马上 去 查 一 查 。
+0  1  2  3  4  / 5  3  2  2  4  
+how much per hour ? 
+ 一 小时 多少 钱 ?
+0  1  2  3  4  5  / 0  2  2  3  4  5  
+please let me make sure . 
+ 请 让 我 确认 一下 。
+0  1  2  3  4  5  6  7  8  9  / 1  0  4  13  3  15  6  2  3  5  8  8  9  9  
+could you show me the way on this map ? 
+ 您 能 在 这 张 地图 上 给 我 指 一下 路 吗 ?
+0  1  2  3  4  5  / 0  1  4  9  5  
+you 've been very kind . 
+ 您 太 热情 了 。
+0  1  / 0  0  1  
+okay . 
+ 好 的 。
+0  1  2  3  4  5  6  / 1  2  9  3  5  4  6  6  
+do you have travel accident insurance ? 
+ 您 加入 旅游 伤害 保险 了 吗 ?
+0  1  2  3  4  / 0  2  3  3  4  
+please write it here . 
+ 请 写 在 这里 。
+0  1  2  3  4  5  6  7  8  9  10  / 1  2  13  4  3  5  7  8  9  10  
+would you bring two continental breakfasts at eight tomorrow morning ? 
+ 明早 八点 能 送 两 份 欧式 早餐 吗 ?
+0  1  2  3  4  5  6  7  / 0  0  0  3  5  6  6  6  7  
+let 's see how much it weighs . 
+ 让 我 来 称 一下 它 有 多重 。
+0  1  2  3  4  5  6  7  8  9  / 1  0  2  3  4  15  16  17  7  6  20  21  8  9  9  
+can you recommend a restaurant that has that food ? 
+ 您 能 推荐 一 家 能 吃 到 那 道 菜 的 餐厅 吗 ?
+0  1  2  / 0  1  1  2  2  
+no answer ? 
+ 没 人 接 吗 ?
+0  1  2  3  4  5  6  7  8  / 2  1  4  4  3  7  8  
+i think we can bring it around eight . 
+ 我 想 八点 左右 可以 送去 。
+0  1  2  3  4  / 1  0  2  3  4  4  
+can i get in ? 
+ 我 可以 坐 进来 吗 ?
+0  1  2  3  4  5  / 0  2  3  4  3  5  
+i did n't order this . 
+ 我 没有 点 这个 菜 。
+0  1  2  3  4  5  6  / 0  1  2  3  5  6  6  
+could you send it to japan ? 
+ 能 帮 我 寄到 日本 吗 ?
+0  1  2  3  4  5  / 6  2  4  5  
+it 's okay with me . 
+ 我 没 问题 。
+0  1  2  3  4  5  6  7  / 0  2  1  3  5  6  7  
+we 'd like two unk , please . 
+ 请 给 我 两 杯 白兰地 。
+0  1  2  3  4  5  6  7  8  9  / 5  2  12  13  4  6  8  9  
+i 'd like to send this letter by airmail . 
+ 这 封信 请 给 我 寄 航空信 。
+0  1  2  3  4  5  6  7  / 0  0  2  1  4  6  5  5  7  
+someone will be in to seat you . 
+ 有 人 会 来 给 您 安排 座位 。
+0  1  2  3  / 1  2  2  3  
+in fifty minutes . 
+ 五十 分钟 后 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  0  1  5  5  3  6  9  8  7  10  
+yes , please . do you have a martini unk ? 
+ 好 的 , 麻烦 您 。 有 unk 酒 吗 ?
+0  1  2  3  4  5  6  7  / 0  5  4  1  6  7  
+how do i get to this address ? 
+ 到 这个 地方 怎么 去 ?
+0  1  2  3  4  5  6  7  / 0  6  5  4  7  
+we 'll be checking out around ten . 
+ 我们 十点钟 左右 退房 。
+0  1  2  3  4  5  6  / 0  4  5  3  4  1  6  
+what size are you looking for ? 
+ 您 在 找 哪 个 尺寸 ?
+0  1  2  3  4  5  6  7  / 1  0  2  3  4  6  7  7  
+could you take us to the museum ? 
+ 你 能 带 我们 去 博物馆 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  1  2  3  3  6  8  6  9  9  10  
+about an hour . it 's too far to walk . 
+ 大概 一 个 小时 。 走 着 去 太 远 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 0  1  2  3  3  4  5  6  8  9  11  12  
+you can take our airport shuttle bus to pick up the car . 
+ 你 可以 坐 我们 的 机场 往返 巴士 来 取 车 。
+0  1  2  3  4  5  6  / 0  3  5  4  6  
+how about going to bed already ? 
+ 该 睡 了 吧 ?
+0  1  2  3  4  / 1  1  3  3  4  
+the beef was great . 
+ 牛肉 太 棒 了 。
+0  1  2  3  4  5  / 1  2  3  4  5  
+your total is unk dollars . 
+ 一共 是 unk 美元 。
+0  1  2  3  4  5  / 1  2  4  5  
+what 's the unk fare ? 
+ 单程 多少 钱 ?
+0  1  2  3  4  5  6  7  8  / 5  10  3  4  3  5  6  7  8  
+what kind of gambling can we do here ? 
+ 我们 在 这儿 可以 玩 哪 种 赌博 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  4  4  3  6  7  9  9  
+i 'd like to page unk unk , please . 
+ 我 想 广播 找 一下 unk unk 先生 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  3  5  15  7  10  8  11  
+your party is on the line . go ahead , please . 
+ 对方 接 电话 了 。 请 讲话 。
+0  1  2  3  4  5  6  / 0  2  1  3  2  4  4  5  5  6  6  
+may i have two balcony seats ? 
+ 能 给 我 两 张 二 楼 包厢 票 吗 ?
+0  1  2  3  4  5  6  7  / 0  2  4  4  6  7  
+i 'd like to cancel my flight . 
+ 我 想 取消 飞机 票 。
+0  1  2  3  4  5  6  / 2  1  2  5  3  12  0  5  6  
+where do i return the car ? 
+ 我 应该 把 车 还 到 哪儿 呢 ?
+0  1  2  / 1  2  
+thank you . 
+ 谢谢 。
+0  1  2  3  4  5  6  / 3  0  4  5  2  1  1  1  6  
+how long will we stop here ? 
+ 我们 要 在 这儿 停留 多 长 时间 ?
+0  1  2  3  4  5  6  7  / 1  2  2  5  6  7  
+i see . thank you very much . 
+ 明白 了 。 非常 感谢 。
+0  1  2  3  4  5  6  7  / 0  0  1  3  6  5  6  7  
+hi . it 's a nice shop . 
+ 您 好 。 这个 商店 很 好呀 。
+0  1  2  3  4  5  6  / 0  3  4  3  2  12  13  14  5  6  6  
+could i have my valuables back ? 
+ 能 把 寄存 的 贵重 物品 还 给 我 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 1  5  6  7  8  12  9  13  
+i was on the basketball team when i was a high school student . 
+ 高中 时 , 我 参加 过 unk 。
+0  1  2  3  / 0  2  2  3  
+i have diarrhea . 
+ 我 拉肚子 了 。
+0  1  2  3  4  / 3  2  1  1  4  
+stop here , please . 
+ 请 停 在 这里 。
+0  1  2  3  4  5  6  7  / 6  5  1  2  3  4  7  
+can i see that one , please ? 
+ 请 给 我 看看 那 个 。
+0  1  2  3  4  5  / 0  2  4  3  5  
+i 'm crazy about you . 
+ 我 对 你 unk 。
+0  1  2  3  4  5  / 1  2  4  5  
+where is the ticket window ? 
+ 售票处 在 哪里 ?
+0  1  2  3  4  / 1  2  3  4  
+i 'd love to . 
+ 我 很 乐意 。
+0  1  2  3  4  5  6  / 3  0  1  2  3  12  5  5  5  6  
+around when was this piece made ? 
+ 这 件 作品 大约 是 什么 时期 unk 的 ?
+0  1  2  3  4  5  / 1  0  4  5  5  
+is this the correct way ? 
+ 这边 是 顺路 吗 ?
+0  1  2  3  4  5  6  7  8  / 3  2  4  6  7  6  8  
+oh , no , this is too heavy . 
+ 呀 ! 这个 太 重 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  1  2  9  5  4  6  6  3  8  7  8  11  
+nowadays we do n't work more than five days a week . 
+ 最近 , 我们 一 星期 工作 最 多 不 超过 五 天 。
+0  1  2  3  4  5  6  7  / 0  1  3  4  12  5  6  7  
+please put in eight millimeter movie film . 
+ 请 装 八 毫米 的 电影 胶卷 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  / 30  3  4  4  34  5  5  4  10  1  12  28  14  16  21  18  46  47  19  13  24  27  27  9  29  
+all right , unk , you 're reserved on flight three zero zero to dallas , leaving la guardia airport at eight sharp , wednesday , may the first . 
+ 好 的 , 太太 。 给 您 订 好 了 五月 一号 星期三 、 八点 整 从 unk 机场 飞往 达拉斯 的 unk 航班 。
+0  1  2  3  4  5  / 1  3  4  5  
+i 'm in a hurry . 
+ 我 有 急事 。
+0  1  2  3  4  / 0  2  2  3  4  
+what kind of wallet ? 
+ 是 什么样 的 钱包 ?
+0  1  2  3  4  5  6  / 0  2  2  3  5  4  4  6  
+you gave me the wrong number . 
+ 您 告诉 我 的 号码 错 了 。
+0  1  2  3  4  5  6  7  8  / 1  2  3  6  7  7  8  
+i 've been working there for five years . 
+ 在 那儿 工作 五 年 了 。
+0  1  2  / 1  0  2  
+where to ? 
+ 到 哪里 ?
+0  1  2  3  4  5  6  / 1  1  2  3  5  6  
+how far is it from here ? 
+ 离 这里 有 多 远 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 2  5  4  9  12  13  
+we ai n't lost . let 's get the fuck out of here . 
+ 没有 迷路 。 赶快 逃跑 。
+0  1  2  3  4  5  6  7  / 1  2  4  3  6  7  
+i 'm going to la this afternoon . 
+ 今天 下午 准备 去 洛杉矶 。
+0  1  2  3  4  5  6  / 7  2  3  5  6  
+what time does the restaurant open ? 
+ 餐馆 几 点 开门 ?
+0  1  2  / 1  2  
+thank you . 
+ 谢谢 。
+0  1  2  3  4  5  / 0  1  2  4  3  5  
+where 's the cosmetics department ? 
+ 卖 化妆品 的 在 哪儿 ?
+0  1  2  3  4  5  6  7  8  9  / 0  2  4  5  6  8  9  
+i 'd like a shampoo and style , please . 
+ 我 要 洗头 和 做 发型 。
+0  1  2  3  4  5  6  / 0  3  4  5  5  6  
+i 'd like to exchange money . 
+ 我 想 换 零 钱 。
+0  1  2  3  4  5  6  / 0  2  4  5  6  
+i 'd like some ear drops . 
+ 我 想 要 unk 。
+0  1  2  3  4  5  6  7  / 1  2  2  6  3  5  7  7  
+may i ask a favor of you ? 
+ 可以 请 您 帮 个 忙 吗 ?
+0  1  2  3  4  5  6  / 0  0  1  2  3  5  6  6  
+hello . may i help you ? 
+ 你 好 。 您 要 帮忙 吗 ?
+0  1  / 0  0  0  1  
+yes ? 
+ 有 什么 事 ?
+0  1  2  3  4  5  6  / 3  3  2  1  5  6  
+thank you , mr . brown . 
+ unk 先生 , 谢谢 您 。
+0  1  2  3  4  5  6  7  / 0  2  6  4  5  7  
+i 'll be back in fifteen minutes . 
+ 我 十五 分钟 后 回来 。
+0  1  2  3  4  5  / 3  2  4  5  
+where is the boarding gate ? 
+ 登机口 在 哪里 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  0  2  3  5  6  6  6  8  10  9  11  11  
+could you help me put my bag in the overhead bin ? 
+ 您 能 帮 我 把 手提包 放到 头顶 的 行李架 上 吗 ?
+0  1  2  / 0  0  1  1  2  
+how long ? 
+ 要 多 长 时间 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  2  2  3  4  5  18  19  10  7  6  11  
+i could n't catch the announcement . what did it say ? 
+ 我 没 听清 广播 的 内容 , 都 说 什么 了 ?
+0  1  2  3  4  5  6  / 1  0  1  4  3  4  3  5  6  6  
+will you take up my luggage ? 
+ 您 能 帮 我 把 行李 拿 起来 吗 ?
+0  1  2  3  4  / 3  3  4  
+have a nice trip . 
+ 旅行 愉快 。
+0  1  2  3  4  / 0  3  4  
+i have a stomachache . 
+ 我 肚子疼 。
+0  1  2  3  4  / 3  1  2  2  4  
+how old are you ? 
+ 你 多 大 了 ?
+0  1  2  3  4  5  / 0  2  4  5  
+i do n't like it . 
+ 我 不 喜欢 。
+0  1  2  3  4  5  6  7  / 0  1  2  3  5  5  6  7  
+please tell him to call me back . 
+ 请 告诉 他 给 我 回 电话 。
+0  1  2  3  4  5  6  / 0  1  2  4  4  3  5  6  
+i 'd like a balcony seat . 
+ 我 想 要 二 楼 的 座位 。
+0  1  2  / 1  2  
+stop it . 
+ 住手 。
+0  1  2  3  4  5  / 0  2  2  4  5  
+please give me some mouthwash . 
+ 请 给 我 漱口液 。
+0  1  2  3  4  5  6  7  8  9  / 2  2  3  4  5  5  5  9  
+it 's hot and humid , is n't it ? 
+ 又 闷 又 热 , 对 吧 ?
+0  1  2  3  4  5  / 1  2  2  4  4  5  
+are you interested in gardening ? 
+ 你 对 园艺 感兴趣 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 2  11  3  3  5  6  8  9  9  
+do you have cartridge film for an unk camera ? 
+ 有 unk 照相机 用 的 盒式 胶卷 吗 ?
+0  1  2  3  4  5  / 0  1  3  2  2  4  4  5  
+go straight down this street . 
+ 请 沿着 这 条 路 一直 走 。
+0  1  2  3  4  5  6  / 1  0  4  4  5  5  6  
+i 'm working for a company . 
+ 我 在 一 家 公司 工作 。
+0  1  2  3  4  5  6  7  8  / 0  6  7  1  1  8  
+how much to rent it for three days ? 
+ 租 三 天 多少 钱 ?
+0  1  2  3  4  5  6  7  8  / 0  3  2  4  6  7  8  
+take the number fifteen bus going to chinatown . 
+ 坐 十五 路 巴士 去 唐人街 。
+0  1  2  3  4  5  6  7  / 0  1  4  2  5  6  7  
+thanks . what is this made of ? 
+ 谢谢 。 是 什么 料子 的 ?
+0  1  2  3  / 0  1  2  3  
+i feel nauseous . 
+ 我 感到 恶心 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 12  1  3  0  8  7  10  11  
+i 'd like you to make it one inch shorter here . 
+ 这儿 请 给 我 缩短 一 英寸 。
+0  1  2  3  4  5  6  7  8  / 2  6  7  8  
+i have n't seen you for quite sometime . 
+ 好久 不见 了 。
+0  1  2  3  / 0  1  2  3  
+i have chills . 
+ 我 觉得 冷 。
+0  1  2  3  4  / 0  3  4  
+one moment , please . 
+ 请 稍候 。
+0  1  2  3  / 0  1  2  3  
+anything is fine . 
+ 哪 个 都行 。
+0  1  / 0  0  1  
+certainly . 
+ 当然 了 。
+0  1  2  3  4  5  6  7  8  9  / 4  3  12  13  5  7  8  9  
+where can i have this postal money order cashed ? 
+ 这 张 unk , 在 哪里 unk ?
+0  1  2  3  4  5  6  / 1  2  3  5  5  6  
+do i need an embarkation card ? 
+ 我 需要 unk 卡 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  2  4  6  7  8  
+is there a bus tour of the city ? 
+ 有 unk 观光 巴士 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  2  4  4  9  17  9  10  
+i have one more thing i 'd like to say . 
+ 还 有 一 件 想要 说 的 事 。
+0  1  2  / 0  0  1  2  
+excuse me . 
+ 对 不 起 。
+0  1  2  3  4  5  6  / 0  2  1  2  4  4  3  5  6  
+i want to unk this area . 
+ 我 想 调查 一下 这个 地方 的 情况 。
+0  1  2  3  4  5  6  7  8  9  / 10  11  3  3  2  4  6  6  6  8  9  
+corn flakes and fried eggs with bacon , please . 
+ 请 给 我 玉米片 , 煎 荷包蛋 再 加 咸肉 。
+0  1  2  3  4  5  6  / 0  2  3  3  4  5  6  
+i did n't want a coke . 
+ 我 不 想 要 可 乐 。
+0  1  2  3  4  / 0  1  2  3  2  10  4  
+i 'm from japan . 
+ 我 是 从 日本 来 的 。
+0  1  2  3  4  5  6  7  8  9  / 1  2  1  1  3  4  5  5  7  6  8  9  
+turn left there and go straight for two blocks . 
+ 在 那里 往 左转 , 然后 往前 走 两 个 街区 。
+0  1  2  3  4  5  / 0  2  3  5  
+dye it brown , please . 
+ 请 染成 unk 。
+0  1  2  3  4  5  6  / 0  3  2  4  5  6  
+i ca n't see the screen . 
+ 我 看 不 见 屏幕 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  3  1  4  4  4  6  6  7  7  8  26  11  13  9  13  14  
+go straight up this street about five blocks , you ca n't miss it . 
+ 沿 这 条 街 一直 走 五 个 街区 左右 , 一 看 就 能 知道 。
+0  1  2  3  4  5  / 0  1  3  3  4  5  
+is it an express train ? 
+ 这 是 快 车 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  2  3  4  5  7  7  8  9  10  
+do you have rental clubs or a pick up service ? 
+ 有 没 有 高尔夫 球杆 租借 服务 和 接送 服务 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  2  3  5  6  6  6  8  7  10  9  11  
+in that case , let 's see the tom cruise movie . 
+ 那样 的话 , 就 去 看 汤姆 克鲁斯 的 电影 吧 。
+0  1  2  3  4  5  6  / 1  4  3  5  6  
+it 's next to that building . 
+ 在 那 unk 旁边 。
+0  1  2  3  4  / 0  1  2  3  3  4  
+i work with john . 
+ 我 和 约翰 在一起 工作 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  0  2  3  16  5  5  6  9  10  11  
+let me see . how many nights will you be staying ? 
+ 我 来 看 一下 , 您 要 住 几 晚 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  7  8  4  16  9  10  
+would you please wake me up at seven tomorrow morning ? 
+ 明天 早上 七点 叫醒 我 好 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 2  1  3  5  6  7  7  7  6  9  10  
+mr . smith suggested that i contact mr . peters . 
+ 史密斯 先生 建议 我 和 unk unk 先生 联系 一下 。
+0  1  2  3  4  5  6  / 0  1  3  5  6  
+when does the plane take off ? 
+ 飞机 几 点 起飞 ?
+0  1  2  3  4  5  6  / 0  1  9  10  4  2  3  5  6  
+yes , a budweiser , please . 
+ 嗯 , 请 给 我 一 瓶 百威啤酒 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  / 0  1  7  2  4  5  29  20  8  10  14  11  11  17  19  18  39  21  22  22  
+i see . say , would you mind if i asked you to take care of a unk for me , monica ? 
+ 我 知道 了 。 啊 , unk , 如果 我 请 你 帮忙 办 点儿 事 你 介意 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  3  5  4  7  8  
+how much will it cost to leave it ? 
+ 存 这个 要 多少 钱 ?
+0  1  2  3  4  / 0  2  3  4  
+please come right now . 
+ 请 马上 来 。
+0  1  2  3  4  5  6  7  / 0  1  1  3  4  5  6  7  
+is there a department store around here ? 
+ 这 附近 有 一 个 unk 吗 ?
+0  1  2  3  4  5  6  / 2  5  5  4  3  5  6  
+are there any messages for me ? 
+ 有 给 我 的 留言 吗 ?
+0  1  2  3  4  5  6  / 2  3  1  4  5  6  
+the food here is really good . 
+ 这里 的 菜 非常 好 。
+0  1  2  3  4  / 0  1  3  3  4  
+i 've already paid . 
+ 我 已经 付款 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  1  1  2  4  5  6  7  10  12  13  
+give me two bottles of whiskey and one bottle of brandy , please . 
+ 请 给 我 两 瓶 威士忌 和 一 瓶 白兰地 。
+0  1  2  3  4  5  6  / 0  3  5  6  
+i do n't have a spoon . 
+ 我 没有 unk 。
+0  1  / 0  0  1  
+hello . 
+ 您 好 。
+0  1  2  3  4  5  / 1  4  5  
+how do you spell it ? 
+ 怎么 拼写 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  4  5  5  6  8  9  
+i 'd like to know about the eurail pass . 
+ 我 想 问问 欧洲 unk 的 事 。
+0  1  2  3  4  5  6  7  8  / 9  2  3  4  6  7  8  
+what time does the bus for boston leave ? 
+ 去 波士顿 的 unk 点 出发 ?
+0  1  2  3  4  / 0  1  2  2  3  4  
+please open your baggage . 
+ 请 打开 你 的 包 。
+0  1  2  3  4  5  / 2  2  3  4  5  
+is the shower available anytime ? 
+ 随时 可以 unk 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  / 2  1  2  3  0  6  6  10  7  9  8  38  15  12  14  15  15  16  21  20  18  22  21  21  24  52  26  
+the unk moves north as it gets warmer , until at last the cherry blossoms in hokkaido , our northernmost island , blossom in early may . 
+ 开 花 随着 气温 的 转暖 而 向 北 移动 , 最后 到达 最 北面 的 unk 北海道 , 北海道 的 樱花 五月 初 开 花 。
+0  1  2  3  4  5  6  7  / 2  6  5  11  
+please tell me where the classroom is . 
+ 教室 在 哪儿 ?
+0  1  2  3  4  5  / 1  2  3  2  4  5  5  
+do you know this book ? 
+ 您 知道 这 本 书 吗 ?
+0  1  2  3  4  5  6  7  8  / 7  1  11  4  4  6  5  8  
+do n't cut off too much , please . 
+ 请 不 要 剪 得 过 多 。
+0  1  2  3  4  5  6  7  8  9  10  / 4  3  2  5  7  9  10  10  
+by what time should i be back to the bus ? 
+ 我 应该 几 点 回到 车上 呢 ?
+0  1  2  3  4  / 1  0  2  3  4  
+what 's the story ? 
+ 是 什么样 的 故事 ?
+0  1  2  3  4  5  6  7  8  9  10  / 1  0  4  4  5  7  8  9  10  10  
+could you please tell me how to call this number ? 
+ 你 能 告诉 我 怎么 打 这个 号码 吗 ?
+0  1  2  3  / 0  0  1  2  2  3  
+keep the change . 
+ 不 用 找 钱 了 。
+0  1  2  3  4  5  / 0  1  2  3  4  4  5  
+these pants are too tight . 
+ 这 条 裤子 太 紧 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 7  0  4  3  3  6  5  8  12  13  11  10  14  
+mr . ellison ? mr . clark is waiting for you in the lobby . 
+ 是 unk 先生 吗 ? 克拉克 先生 正 在 大厅 等 您 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  2  5  5  7  8  9  10  
+please give me a unk exposure roll of color film . 
+ 请 给 我 三十六 张 的 彩色 胶卷 。
+0  1  2  3  4  5  6  7  / 0  1  2  2  3  4  5  6  7  
+who issued your original traveler 's checks ? 
+ 旅行 支票 的 原 发行 地 是 哪里 ?
+0  1  2  3  4  5  6  / 7  2  2  5  6  
+it 's all right with me . 
+ 我 不 要 紧 。
+0  1  2  3  4  5  6  / 0  1  3  5  4  5  6  
+you gave me the wrong change . 
+ 你 找 的 钱 不 对 。
+0  1  2  3  4  5  6  7  8  / 0  3  2  5  4  5  15  7  8  
+how many members are there in your party ? 
+ 您 的 登山 unk 有 几 个 人 ?
+0  1  2  3  / 0  0  0  1  1  2  2  2  3  
+orchestra or balcony ? 
+ 要 一 楼 的 还是 二 楼 的 ?
+0  1  2  3  4  / 0  2  3  4  
+i do n't agree . 
+ 我 不 同意 。
+0  1  2  3  4  5  / 0  1  2  2  4  4  5  
+could you call a doctor ? 
+ 能 帮 我 叫 医生 吗 ?
+0  1  2  3  4  5  6  / 1  0  2  2  4  5  5  6  
+do you have anything to declare ? 
+ 你 有 没 有 要 申报 物品 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  4  3  5  6  9  6  18  
+please check to see if you have it or not . 
+ 请 确认 一下 你 有 没 有 ?
+0  1  2  3  4  5  / 1  1  3  3  3  4  5  
+are these shoes wide enough ? 
+ 这 双 鞋 unk 的 吗 ?
+0  1  2  3  4  5  / 0  0  1  3  3  4  5  
+my unk got washed away . 
+ 我 的 unk 被 unk 了 。
+0  1  2  3  4  5  6  7  8  / 0  3  4  5  7  8  
+i 've just about given up finding it . 
+ 我 正 准备 放弃 寻找 。
+0  1  2  3  4  5  6  7  8  / 1  2  3  6  6  7  8  
+is there an airport bus to the city ? 
+ 有 去 unk 的 巴士 吗 ?
+0  1  2  3  4  5  6  / 0  2  1  2  3  4  4  4  5  6  6  
+yes , unk . anything else ? 
+ 好 的 , 女士 。 其它 还 要 什么 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 0  3  5  6  7  9  10  
+i took it from the hilton hotel to city hall . 
+ 我 从 希尔顿 unk 到 市政厅 。
+0  1  2  3  4  5  6  7  8  / 0  1  4  5  13  7  7  8  
+is there a dining car on this train ? 
+ 这 趟 火车 上 有 餐车 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  / 0  10  10  9  8  11  13  14  
+and we 're having salad as an appetizer . we 'd like to share . 
+ unk 我 想要 色拉 。 请 分开 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  2  12  5  11  10  12  13  
+i came from hokkaido , which is in the northern part of japan . 
+ 我 从 日本 北部 的 北海道 来 。
+0  1  2  3  4  5  / 1  3  4  5  
+is there a beauty salon ? 
+ 有 unk 吗 ?
+0  1  2  3  4  5  6  / 3  5  2  2  6  6  
+do you accept traveler 's checks ? 
+ 旅行 支票 也 可以 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+i have health insurance . 
+ 我 有 医疗 保险 。
+0  1  2  3  4  5  6  7  8  / 0  2  1  3  4  6  7  8  
+could i have a plastic bag , please ? 
+ 能 给 我 一 个 塑料袋 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+transfer at grand central . 
+ 在 中央 总站 换车 。
+0  1  2  3  4  5  / 1  0  0  9  2  3  3  4  5  5  
+can i take pictures here ? 
+ 我 能 在 这里 照 几 张 相 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  0  1  13  4  6  8  9  
+okay . come back tomorrow to pick it up . 
+ 好 的 。 请 明天 来 拿 。
+0  1  2  3  / 0  1  2  3  
+whiskey , please . 
+ 我 要 威士忌 。
+0  1  2  3  4  / 1  3  4  4  
+does it include tax ? 
+ 包括 税 吗 ?
+0  1  2  3  4  5  6  / 1  3  5  6  
+how many minutes does it take ? 
+ 要 几 分钟 ?
+0  1  2  3  4  5  6  / 1  0  5  5  6  
+let 's take your blood pressure . 
+ 量 一下 血压 吧 。
+0  1  2  3  4  5  6  7  / 0  1  2  3  5  5  6  7  
+i want to buy just one glass . 
+ 我 只 想 买 一 个 杯子 。
+0  1  2  3  4  5  6  / 0  2  5  4  4  6  
+i 'll pay them all together . 
+ 我 会 一起 付 的 。
+0  1  2  3  / 0  1  2  3  
+this is perfume . 
+ 这 是 香水 。
+0  1  2  3  4  5  / 1  0  2  2  4  4  5  
+did you enjoy your dinner ? 
+ 您 晚餐 用 得 愉快 吗 ?
+0  1  2  3  4  5  6  / 1  1  3  5  6  
+your meter is not on yet . 
+ 计价器 还 没 打开 !
+0  1  2  3  4  5  6  7  / 0  1  3  5  6  6  7  
+do you have any medicine for indigestion ? 
+ 有治 消化 不良 的 药 吗 ?
+0  1  2  3  4  5  / 0  1  2  2  4  4  3  5  5  
+would you say that again ? 
+ 请 您 再 说 一 遍 好 吗 ?
+0  1  2  3  4  5  / 1  3  4  5  5  
+is there a tour bus ? 
+ 有 观光 巴士 吗 ?
+0  1  2  3  4  5  6  / 4  5  5  6  
+do you mind if i smoke ? 
+ 可以 抽烟 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+i prefer something different . 
+ 我 希望 有点 变化 。
+0  1  2  3  4  5  6  7  8  9  / 1  2  3  4  6  6  8  9  
+i 'm looking for a souvenir for my father . 
+ 我 在 找 送给 父亲 的 礼物 。
+0  1  2  3  4  5  6  7  8  9  10  / 1  3  5  2  6  6  9  10  
+do you have the same thing in a light brown ? 
+ 同样 的 东西 有 unk 的 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 3  2  2  6  8  9  
+what time will we get back to the hotel ? 
+ 我们 几点钟 能 回到 unk ?
+0  1  2  3  4  / 1  2  3  3  
+what are the contents . 
+ 里面 是 什么 ?
+0  1  2  3  4  5  6  7  / 0  1  2  2  3  6  7  
+what kind of room would you like ? 
+ 您 想要 什么样 的 房间 呢 ?
+0  1  2  3  / 0  1  0  2  3  
+anything on it ? 
+ 要 加 什么 吗 ?
+0  1  2  3  4  5  6  / 1  1  2  3  4  5  6  
+do n't make fun of me . 
+ 别 拿 我 开 玩笑 了 。
+0  1  2  3  4  5  / 0  1  1  2  3  4  4  5  
+is there a unk doctor ? 
+ 有 会 讲 日语 的 医生 吗 ?
+0  1  2  3  4  / 3  0  4  
+open it , please . 
+ 请 打开 。
+0  1  2  3  4  5  6  7  / 0  3  4  5  6  7  
+i 'd like to try it on . 
+ 我 想 穿 这个 试试 。
+0  1  2  3  4  / 2  2  1  3  3  4  
+how have you been ? 
+ 你 这 段 时间 怎么样 ?
+0  1  2  3  4  5  6  / 0  0  1  4  3  2  5  5  6  
+okay , i 'll take it . 
+ 好 的 , 请 给 我 那 个 。
+0  1  2  3  4  5  6  / 0  1  3  5  4  4  6  
+how much is the cheapest seat ? 
+ 最 便宜 的 座位 多少 钱 ?
+0  1  2  3  4  / 2  1  2  3  4  
+how about this camera ? 
+ 这 架 相机 怎么样 ?
+0  1  2  3  4  / 0  1  3  3  4  
+is evening dress required ? 
+ 要求 穿 晚礼服 吗 ?
+0  1  2  3  4  / 1  2  3  4  
+it was pretty hard . 
+ 很 不 容易 。
+0  1  2  3  4  5  6  7  8  / 0  2  4  4  5  7  8  
+i 'll call back later , thank you . 
+ 我 以后 再 打 , 谢谢 。
+0  1  2  3  4  5  6  7  8  9  / 1  0  1  2  4  3  16  5  3  7  7  7  8  9  
+go straight and turn left at the second light . 
+ 一直 向前 走 , 在 第二 个 信号 灯 处 向 左 拐 。
+0  1  2  3  4  / 1  0  3  2  2  3  4  4  
+is unk another unk ? 
+ unk 是 另 一 位 unk 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  3  1  3  3  2  16  6  7  8  9  
+i ca n't find your name on my computer . 
+ 我 在 电脑 里 找 不 到 您 的 名字 。
+0  1  2  3  4  5  / 2  4  5  5  
+do i need a reservation ? 
+ 需要 预订 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  0  1  3  2  5  6  4  5  8  
+give me one carton of silkcut , please . 
+ 请 给 我 拿 一 条 unk 的 香烟 。
+0  1  2  3  4  / 0  0  1  2  2  3  4  
+this is your room . 
+ 这 就 是 您 的 房间 。
+0  1  2  3  4  5  6  / 5  2  3  3  6  
+speak a little slower , please . 
+ 请 慢 一点儿 讲 。
+0  1  2  3  4  5  6  7  / 0  9  2  3  3  4  6  6  7  
+hello . is this the honda residence ? 
+ 喂 , 是 honda 先生 的 家 吗 ?
+0  1  2  3  4  5  / 0  1  4  3  4  5  
+i feel a little better . 
+ 我 觉得 好 一点儿 了 。
+0  1  2  3  4  5  6  7  / 1  2  1  4  6  7  
+what time does the last train leave ? 
+ 末班 电车 几 点 发车 ?
+0  1  2  3  4  5  6  7  8  / 0  1  2  0  3  3  8  
+i 'd like five of these , please . 
+ 这个 请 给 我 五 个 。
+0  1  2  3  4  5  / 4  3  3  5  
+how 's the weather today ? 
+ 今天 天气 怎么样 ?
+0  1  2  3  4  5  6  / 0  1  2  2  2  4  13  5  6  
+this is between you and i . 
+ 这 是 我们 两 人 之间 的 事 。
+0  1  2  3  4  / 1  0  0  1  3  3  4  4  
+could i have another ? 
+ 我 能 再 要 一 份 吗 ?
+0  1  2  3  4  5  6  7  / 2  3  4  6  6  7  
+does it include tax and service charges ? 
+ 包括 税 和 服务费 吗 ?
+0  1  2  3  4  5  / 2  4  3  5  
+do you have any beer ? 
+ 有 啤酒 吗 ?
+0  1  2  3  4  5  6  / 0  1  0  2  3  4  5  6  
+my favorite band is deep green . 
+ 我 喜欢 的 乐队 是 unk green 。
+0  1  2  3  4  5  6  7  8  / 1  1  4  2  8  
+how many unk of sugar would you like ? 
+ 您 要 unk unk ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  / 31  1  1  4  5  6  9  10  13  14  13  13  17  16  16  21  22  26  27  28  23  29  30  
+that sounds like a great idea . i 'll have to check and see if i can get time off from work . what day do you plan on leaving ? 
+ 这个 主意 听 起来 不错 。 我 要 先 确认 一下 看看 能 不 能 请假 。 你 打算 去 几 天 ?
+0  1  2  3  4  / 2  1  0  3  4  
+did the medicine work ? 
+ 药 unk 了 吗 ?
+0  1  2  3  4  / 0  1  2  3  4  
+i 'll take it . 
+ 我 就 要 那个 。
+0  1  2  3  4  5  6  7  / 1  4  6  7  
+where can i find the sales department ? 
+ 营业部 在 哪里 ?
+0  1  2  3  4  5  6  7  8  / 1  3  4  7  8  
+i 'd like to reserve an airline ticket . 
+ 我 要 预订 机票 。
+0  1  2  3  4  5  / 1  4  5  
+this evening at eight unk . 
+ 今晚 八点 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  1  4  5  6  7  9  8  10  
+can i have some medicine and a glass of water ? 
+ 能 给 我 药 和 一 杯 水 吗 ?
+0  1  2  3  / 1  2  3  
+you 're welcome . 
+ 不 客气 。
+0  1  2  3  4  5  6  7  / 0  2  3  4  5  6  7  
+i 'd like to do it again . 
+ 我 还 想 玩 那 个 。
+0  1  2  3  4  5  6  7  8  / 0  3  5  7  8  
+i 'd like to leave my baggage here . 
+ 我 想 寄存 行李 。
+0  1  2  3  4  / 2  3  4  
+do n't be shy . 
+ 别 unk 。
+0  1  2  3  / 0  1  2  3  
+seven is fine . 
+ 七 点 可以 。
+0  1  2  3  4  5  6  / 0  1  4  3  5  6  
+my unk do n't fit right . 
+ 我 的 假牙 没有 unk 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 1  0  2  1  3  17  10  5  7  7  9  23  8  11  
+my hair is unk . i would like some body here . 
+ 因为 我 的 头发 unk , 这里 我 想 做 得 unk 一些 。
+0  1  2  3  4  5  6  7  8  9  10  / 1  1  3  14  4  6  7  8  19  10  
+flight number zero zero two to tokyo on april unk . 
+ 航班号 是 零零二 , 四月 二十八 号 飞往 东京 。
+0  1  2  3  4  5  6  7  8  9  / 1  0  3  4  4  5  7  6  8  9  
+i 've got two tickets for the hollywood bowl . 
+ 我 有 两 张 好莱坞 体育场 演出 的 票 。
+0  1  2  3  4  5  6  7  8  9  / 0  2  4  5  6  8  9  
+i 'd like a shampoo and style , please . 
+ 我 要 洗头 和 做 发型 。
+0  1  2  3  / 0  2  1  3  
+i think so . 
+ 我 这样 想 。
+0  1  2  3  4  / 0  2  3  4  
+i come from scotland . 
+ 我 来自 苏格兰 。
+0  1  2  3  4  5  6  7  8  / 0  4  4  7  8  
+it 's a little small around the waist . 
+ unk 小 了 一点 。
+0  1  2  3  4  5  6  / 3  0  5  6  
+do you have any of these ? 
+ 有 这个 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  / 0  3  4  5  6  7  10  12  13  16  15  17  
+take the chuo line to unk , then take the unk line and get off at unk . 
+ 坐 chuo线 到 unk , 换乘 unk , 在 unk 下车 。
+0  1  2  3  4  / 0  1  2  3  3  4  
+i have two tickets . 
+ 我 有 两 张 票 。
+0  1  2  3  4  5  6  / 1  2  3  5  6  
+what track does it leave from ? 
+ 从 几号 站台 发车 ?
+0  1  2  3  4  5  6  7  8  / 1  2  4  6  7  5  15  8  
+i 'm afraid i 've lost my ticket . 
+ 我 想 我 把 票 弄丢 了 。
+0  1  2  3  4  5  6  7  8  / 1  0  5  4  4  4  7  7  8  8  
+can i take a closer look at that ? 
+ 我 可以 再 近 一点儿 看看 那 个 吗 ?
+0  1  2  3  4  5  6  / 0  1  2  4  5  6  
+probably about fifteen minutes on foot . 
+ 走路 大概 十五 分钟 吧 。
+0  1  2  3  4  / 1  3  4  
+how about six thirty ? 
+ 六点半 怎么样 ?
+0  1  2  3  / 0  1  2  2  3  
+you are hungry . 
+ 你 肚子 饿 了 。
+0  1  2  3  4  5  6  7  8  / 1  4  2  7  6  3  8  8  
+is there a tour with a unk guide ? 
+ 有 带 日语 导游 的 观光 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 1  2  2  3  4  5  6  9  11  12  12  
+are we going to use this boat in the afternoon , too ? 
+ 我们 下午 也 要 用 这 艘 小 船 吗 ?
+0  1  2  3  4  5  6  / 0  0  2  1  3  5  6  6  
+may i have some extra bags ? 
+ 能 多 给 我 一些 袋子 吗 ?
+0  1  2  3  4  5  6  / 0  0  3  5  6  
+where can i make a reservation ? 
+ 在 哪里 可以 预订 ?
+0  1  2  3  4  5  / 0  2  4  5  
+how much do you charge ? 
+ 要 多少 钱 ?
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i 'd like some scotch tape . 
+ 我 想 要 unk 胶带 。
+0  1  2  3  4  / 0  1  2  3  4  
+nice to meet you . 
+ 很 高兴 见到 你 。
+0  1  2  3  / 0  2  3  
+here you go . 
+ 给 你 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 2  3  2  4  5  5  7  8  8  10  12  13  
+that 's too bad . it was a real unk of a game . 
+ 太 糟糕 了 。 真 是 一 场 紧张 的 比赛 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  1  1  2  2  4  5  5  6  7  21  8  8  9  10  
+a bike came up and the person snatched my bag . 
+ 一 辆 摩托车 靠近 我 , 那 个 人 抢走 了 我 的 手提包 。
+0  1  2  / 1  0  2  
+good evening . 
+ 晚上 好 。
+0  1  2  3  4  5  / 0  2  2  4  4  5  
+can i use the restroom ? 
+ 能 借用 一下 厕所 吗 ?
+0  1  2  3  4  5  6  7  8  / 0  0  1  5  7  8  
+where can i change this into foreign money ? 
+ 在 哪儿 能 兑换 外汇 ?
+0  1  2  3  4  5  6  7  / 0  1  4  5  12  6  7  7  
+hello . do you have room service ? 
+ 喂 。 有 客房 unk 服务 吗 ?
+0  1  2  3  4  5  6  / 7  8  3  2  4  5  6  
+it 's too expensive for me . 
+ 对 我 来说 太 贵 了 。
+0  1  2  3  4  5  / 3  3  2  2  1  4  5  
+what is the next stop ? 
+ 下 一 个 unk 是 哪里 ?
+0  1  2  3  4  / 2  1  1  0  3  3  4  
+what is your major ? 
+ 你 是 学 什么 专业 的 ?
+0  1  2  3  / 0  1  2  3  
+here it is . 
+ 可以 , 请便 。
+0  1  2  3  4  5  6  7  8  / 1  2  5  7  8  
+japanese people like to sit in hot springs . 
+ 日本人 喜欢 泡 温泉 。
+0  1  2  3  4  / 0  1  2  3  2  4  
+this is for you . 
+ 这 是 给 你 的 。
+0  1  2  3  4  5  / 0  1  1  2  2  3  4  4  5  
+i live in a condominium . 
+ 我 住 在 unk 出售 的 公寓 里 。
+0  1  2  3  / 0  1  2  7  3  
+something like this . 
+ 就 像 这样 的 。
+0  1  2  3  4  5  6  7  8  9  10  11  / 0  0  0  2  16  6  5  19  7  8  9  10  24  11  
+sorry . thought you were someone else . you may go . 
+ 对 不 起 ! 我 搞错 人 了 。 你 可以 走 了 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  / 0  1  3  38  5  40  7  7  9  10  45  16  47  12  12  15  14  18  13  54  20  20  20  25  24  24  24  24  25  26  27  29  32  33  69  30  34  
+unk , she has n't come in ? she has n't called ? unk . well , if you see her or hear from her , tell her to call me at this number . 
+ unk , 她 还 没 回来 吗 ? 她 没 打 过 电话 吗 ? 嗯 。 你 要 是 见到 她 或者 和 她 联系 上 时 , 告诉 她 打 这个 号码 找 我 。
+0  1  2  3  4  5  / 0  2  3  4  5  
+i do n't understand english . 
+ 我 不 懂 英语 。
+0  1  2  3  4  5  6  7  8  9  10  / 0  2  3  5  4  7  6  9  10  
+i want to use a computer with windows on it . 
+ 我 想 使用 装有 unk 系统 的 计算机 。
+0  1  2  3  4  5  / 0  3  2  2  3  4  5  
+my blood type is ab . 
+ 我 是 a b 型 血 。
+0  1  2  3  4  / 0  1  3  4  
+fried egg , please . 
+ 我 要 煎蛋 。
+0  1  2  3  4  5  / 2  1  0  4  4  5  
+where shall we get together ? 
+ 我们 在 哪里 集合 呢 ?
+0  1  2  3  4  5  6  7  / 5  6  2  3  4  4  4  7  7  
+do you take catalog orders from japan ? 
+ 从 日本 按 商品 目录 能 订货 吗 ?
+0  1  2  3  4  5  / 2  0  4  5  
+i 'll have a kir . 
+ 给 我 unk 。
+0  1  2  3  4  / 0  1  3  3  4  
+i changed my mind . 
+ 我 改变 主意 了 。
+0  1  2  3  4  5  6  7  / 0  1  2  2  4  6  7  
+will you call a doctor for me ? 
+ 能 帮 我 叫 医生 吗 ?
+0  1  2  3  4  5  6  / 1  4  5  4  6  
+i have a lot of hair . 
+ 我 的 头发 很多 。
+0  1  2  3  4  5  6  7  / 0  1  1  2  2  4  1  5  16  17  7  
+what is the best restaurant around here ? 
+ 这 附近 最 好 的 餐馆 是 哪 一 家 ?
+0  1  / 0  0  0  1  
+three . 
+ 三 个 人 。
+0  1  2  3  4  5  6  7  / 5  3  6  7  
+where can i find a unk shop ? 
+ unk 在 哪里 ?
+0  1  2  3  4  5  6  / 0  0  1  2  3  4  6  
+yes , you can use it . 
+ 是 的 , 你 可以 用 。
+0  1  2  3  4  / 2  3  4  
+how about this one ? 
+ 这个 怎么样 ?
+0  1  2  3  4  5  6  / 0  2  2  4  5  6  
+i 'd like some toilet paper . 
+ 我 想 要 一些 手纸 。
+0  1  2  3  4  5  6  7  8  9  / 1  2  0  4  6  5  8  9  
+i 'd like a room with a nice view . 
+ 请 给 我 视野 好 的 房间 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  / 22  3  5  7  8  10  15  14  16  19  20  21  
+it 's called unk lifetime employment system unk and is one of the main characteristics of the japanese style of management . 
+ 这 unk unk unk , 是 日本式 经营 的 特点 之一 。
+0  1  2  3  4  5  / 1  3  4  5  
+how much will it be ? 
+ 价钱 是 多少 ?
+0  1  2  3  / 0  1  2  3  
+express , please . 
+ 请 寄 快件 。
+0  1  2  3  4  5  / 6  2  1  2  3  4  4  5  
+may i have my medicine ? 
+ 能 给 我 开 些 药 吗 ?
+0  1  2  3  4  5  / 1  2  4  9  4  5  
+did you see a doctor ? 
+ 您 看 医生 了 吗 ?
+0  1  2  3  4  5  6  7  8  9  / 0  1  2  2  3  5  6  7  6  19  9  
+take this baggage to the jal counter , please . 
+ 请 把 行李 搬到 日本 航空 公司 的 柜台 去 。
+0  1  2  3  4  5  6  / 0  3  1  10  11  2  4  5  5  6  
+why is n't this faucet working ? 
+ 为什么 这个 自来 水 unk 不 出 水 呢 ?
+0  1  2  3  4  5  / 1  4  5  
+i have a stomach ache . 
+ 我 肚子疼 。
+0  1  2  3  4  5  / 0  1  4  3  3  4  5  
+it leaves every twenty minutes . 
+ 每 二十 分钟 发 一 趟 。
+0  1  2  3  4  5  6  7  8  / 0  0  1  2  3  4  5  7  7  6  8  
+excuse me , could you take a picture ? 
+ 对 不 起 , 能 帮忙 照 张 相 吗 ?
+0  1  2  3  / 0  0  0  1  2  2  3  
+coffee or tea ? 
+ 您 要 咖啡 还是 红 茶 ?
+0  1  2  3  4  5  / 0  1  3  4  5  
+i prefer the smoking car . 
+ 我 想 要 吸烟车厢 。
+0  1  2  3  4  5  / 0  1  2  4  4  5  
+it might have been stolen . 
+ unk 已经 被 偷 了 。
+0  1  2  3  / 0  1  2  3  
+that 's fine . 
+ 那样 就 行 。
+0  1  2  3  4  5  6  7  / 0  4  6  5  7  7  
+can we go out to the lobby ? 
+ 能 到 大厅 来 吗 ?
+0  1  2  / 1  2  
+i know . 
+ 知道 。
+0  1  2  3  4  5  6  / 0  1  2  3  3  5  6  
+perhaps you should see a doctor . 
+ 也许 你 应该 去 看看 医生 。
+0  1  2  3  4  5  6  7  / 0  0  2  1  3  3  4  6  7  
+could i have another beer , please ? 
+ 能 再 给 我 一 unk 酒 吗 ?
+0  1  2  / 0  1  1  2  
+i understand . 
+ 我 明白 了 。
+0  1  2  3  4  5  6  7  8  / 2  5  4  5  4  7  8  
+do you have any rooms with a kitchen ? 
+ 有 带 厨房 的 房间 吗 ?
+0  1  2  3  4  5  6  7  / 1  3  4  5  6  7  
+where 's the lost and found office ? 
+ 失物 招领处 在 什么 地方 ?
+0  1  2  3  4  5  6  7  8  9  10  11  / 3  2  6  3  8  10  11  
+how many hours does it take to go to d station ? 
+ unk 车站 要 几 个 小时 ?
+0  1  2  3  4  5  / 1  0  3  2  4  3  4  5  5  
+may i take your coat ? 
+ 我 帮 您 把 大衣 收 起来 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 13  1  2  3  8  6  5  7  21  9  10  11  12  
+i 'd like to get my trousers pressed by ten tomorrow morning . 
+ 明天 早晨 十点 前 请 帮 我 把 这 条 裤子 熨一下 。
+0  1  2  3  4  5  6  7  / 3  9  4  2  6  5  6  7  
+how much is the room including tax ? 
+ 那 个 房间 含 税 多少 钱 ?
+0  1  2  / 0  1  2  
+to cairns . 
+ 到 unk 。
+0  1  2  3  4  / 0  0  1  2  1  3  4  
+who is the dancer ? 
+ 那 个 舞蹈 演员 是 谁 ?
+0  1  2  3  4  5  6  7  / 0  2  3  1  5  4  4  6  5  6  7  
+we were about to cross the street . 
+ 我们 正 要 往 那 边 过 马路 的 时候 。
+0  1  / 0  0  1  
+hello . 
+ 您 好 。
+0  1  2  3  / 2  2  3  
+wait a minute . 
+ 等 一下 。
+0  1  2  3  4  5  6  / 0  2  3  4  5  6  
+i 'll check your blood pressure . 
+ 我 给 你 量量 血压 。
+0  1  2  3  4  5  / 2  3  4  5  
+the light is n't working . 
+ unk 不 亮 。
+0  1  2  3  4  5  6  / 2  1  4  4  3  5  6  6  
+do you have any cheaper rooms ? 
+ 没有 再 便宜 一些 的 房间 吗 ?
+0  1  2  3  4  / 1  0  2  3  4  4  
+can i meet him ? 
+ 我 能 见 他 吗 ?
+0  1  2  3  4  5  6  7  8  9  10  / 1  3  3  4  5  5  8  9  10  10  
+could you tell me how to open a savings account ? 
+ 能 告诉 我 怎么 unk unk 存款 帐户 吗 ?
+0  1  2  3  4  5  6  7  8  / 1  2  4  1  3  4  5  6  6  7  8  
+would you keep my baggage until three unk ? 
+ 这 件 行李 给 我 寄存 到 三点 好 吗 ?
+0  1  2  3  4  5  6  7  / 6  9  10  3  5  0  1  2  
+hilton hotel . may i help you ? 
+ 您 好 , 这里 是 希尔顿 酒店 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  / 0  2  2  3  5  7  9  8  10  4  12  
+i 'd like a room for less than thirty dollars a night . 
+ 我 想 要 一 晚 三十 美元 以下 的 房间 。
+0  1  2  3  4  5  6  7  8  / 0  2  3  5  5  7  8  
+i 'd like to take a sightseeing tour . 
+ 我 想 参加 一 个 旅游团 。
+0  1  2  3  4  5  / 1  4  5  5  
+may i try it on ? 
+ 可以 试穿 吗 ?
+0  1  2  3  4  5  / 2  3  0  4  5  
+how would you like it ? 
+ 您 想 怎么 做 ?
+0  1  2  3  4  / 1  3  4  
+how much is it ? 
+ 多少 钱 ?
+0  1  / 0  1  
+nothing . 
+ 没有 。
+0  1  2  3  4  5  6  / 0  0  2  3  3  5  6  
+where can i get some tokens ? 
+ 在 哪儿 能 换 到 代币 ?
+0  1  2  3  4  5  6  / 2  3  0  6  
+where would you like to go ? 
+ 你 想去 哪里 ?
+0  1  2  3  4  5  6  7  / 0  2  4  11  6  7  
+i can bring them by tomorrow evening . 
+ 明天 傍晚 以前 可以 送来 。
+0  1  2  3  4  5  / 0  1  3  4  5  
+yes , that 's right . 
+ 对 , 是 那样 。
+0  1  2  3  4  5  6  / 1  0  0  10  2  3  4  5  6  6  
+can i take a picture here ? 
+ 我 能 在 这儿 照 一 张 相 吗 ?
+0  1  2  3  4  5  / 0  3  4  5  
+please show me your passport . 
+ 请 出示 护照 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  / 1  2  5  10  10  9  11  25  13  14  16  17  
+the doors open at six and the curtain rises at seven . it 'll end at ten . 
+ 六点 入场 , 七 点 开演 。 演出 预计 十点 结束 。
+0  1  2  3  4  5  / 0  1  3  4  4  5  
+this still is n't clean . 
+ 这个 还是 没 洗 干净 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  / 0  3  0  1  2  9  5  7  11  12  13  
+my flight is nw zero zero one . i 'm going to honolulu . 
+ 我 乘坐 的 航班 是 unk 零零一 。 飞往 夏威夷 。
+0  1  2  3  4  5  / 1  3  4  4  5  
+does it look like rain ? 
+ 看样子 要 下雨 吗 ?
+0  1  2  3  4  5  / 0  1  2  4  4  3  5  
+you should take a bus . 
+ 你 还是 坐 巴士 去 好 。
+0  1  2  3  / 0  2  3  
+that 's right . 
+ 好 的 。
+0  1  2  3  4  5  / 0  3  2  4  5  
+i ca n't speak well . 
+ 我 说 不 好 。
+0  1  2  3  4  5  / 0  1  1  3  3  4  5  
+please draw a map here . 
+ 请 在 这里 画 一下 地图 。
+0  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  / 0  0  1  3  4  6  25  26  11  13  9  10  15  14  33  16  17  36  18  
+sorry . in the nonsmoking car , there are two seats together , but in two different unk . 
+ 很 抱歉 。 unk 的话 , 两 人 一起 , 分 两 组 坐 在 不同 的 地方 。
+0  1  2  3  4  5  6  7  / 1  3  10  6  6  7  
+do you have any fruits or plants ? 
+ 有 水果 , 蔬菜 吗 ?
+0  1  2  3  / 1  2  3  
+it seems fine . 
+ 好像 正好 。
+0  1  2  3  4  5  / 1  0  2  2  3  4  5  5  
+can you recommend an opera ? 
+ 您 能 推荐 一 个 歌剧 吗 ?
+0  1  2  3  4  5  6  / 1  1  2  3  4  5  6  
+would you insure that for me ? 
+ 能 给 我 加上 保险 吗 ?
+0  1  2  3  4  5  6  / 0  1  2  2  5  3  3  4  6  
+please look for my name again . 
+ 请 再 找 一 遍 我 的 名字 。
+0  1  2  3  4  5  6  7  8  / 0  1  3  6  13  7  8  
+please look at table one on page unk . 
+ 请 看 三十八 页 的 unk 。
+0  1  2  3  4  / 1  0  2  3  4  4  
+do you speak japanese ? 
+ 您 会 讲 日语 吗 ?
