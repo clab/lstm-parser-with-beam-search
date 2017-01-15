@@ -1,5 +1,20 @@
-# lstm-parser
-Transition based dependency parser with state embeddings computed by LSTM RNNs
+# lstm-parser-with-beam-search
+An addition to [this dependency parser](https://github.com/clab/lstm-parser) which includes implementations for beam search, selectional branching, and heuristic backtracking, as described in [this paper](http://aclweb.org/anthology/D/D16/D16-1254.pdf).
+
+If using this code, please cite the paper:
+
+@InProceedings{buckman-ballesteros-dyer:2016:EMNLP2016,
+  author    = {Buckman, Jacob  and  Ballesteros, Miguel  and  Dyer, Chris},
+  title     = {Transition-Based Dependency Parsing with Heuristic Backtracking},
+  booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
+  month     = {November},
+  year      = {2016},
+  address   = {Austin, Texas},
+  publisher = {Association for Computational Linguistics},
+  pages     = {2313--2318},
+  url       = {https://aclweb.org/anthology/D16-1254}
+}
+
 
 # Checking out the project for the first time
 
