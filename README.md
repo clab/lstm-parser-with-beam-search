@@ -19,7 +19,7 @@ If using this code, please cite the paper:
 
 # Using alternate decoding methods
 
-To use each decoding method, simply add the correct flags to the model:
+To use each decoding method, simply add the correct flags to the model (all numbers in these examples are tunable parameters):
 
 `-b 12`: Beam search with 12 beams
 
