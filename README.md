@@ -17,6 +17,24 @@ If using this code, please cite the paper:
 }
 ```
 
+# Using alternate decoding methods
+
+To use each decoding method, simply add the correct flags to the model:
+
+`-b 12`: Beam search with 12 beams
+
+`-D -b 50`: Dynamic beam search, cutting off any beams whose score is less than 50% of the top beam
+
+`-b 32 -M .105`: Selectional branching, maximum of 32 beams, spawn a new beam whenever the negative log of the difference in probabilities between the top two beams is less than .105
+
+`-B 12`: Heuristic backtracking, backtrack 12 times
+
+`-B 12 --hb_cutoff`: Heuristic backtracking, backtrack up to 12 times unless we cutoff earlier
+
+# Training the cutoff model
+
+The cutoff model freezes the parameters of the regular network and trains an additional Stack-LSTM to predict where to cut off parsing. To train this model, use the normal training script, make sure you load an already-trained model, and add the `--train_hb` flag.
+
 # Checking out the project for the first time
 
 The first time you clone the repository, you need to sync the `cnn/` submodule.
